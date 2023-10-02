@@ -1,931 +1,763 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="716056c5c140baf3de50b2de00849b8a" tvg-chno="1",0 (6)
+http://192.168.69.51:9981/stream/channelid/1163288689?profile=pass
 #EXTINF:-1 tvg-id="d259d41a7594a64fa32fb4698f8f82cf" tvg-chno="1",24 KITCHEN (6)
 http://192.168.69.51:9981/stream/channelid/450124242?profile=pass
-#EXTINF:-1 tvg-id="716056c5c140baf3de50b2de00849b8a" tvg-chno="2",0 (6)
-http://192.168.69.51:9981/stream/channelid/1163288689?profile=pass
-#EXTINF:-1 tvg-id="6bd36628263d31d5aa7f33659979e749" tvg-chno="2",A BOLA TV (6)
-http://192.168.69.51:9981/stream/channelid/677827435?profile=pass
-#EXTINF:-1 tvg-id="da99722dad5f8ca6835af793520b784b" tvg-chno="3",A&E (6)
-http://192.168.69.51:9981/stream/channelid/762485210?profile=pass
-#EXTINF:-1 tvg-id="88be82fa0d2510673c254a8305de592c" tvg-chno="4",101 TV MALAGA (6)
+#EXTINF:-1 tvg-id="88be82fa0d2510673c254a8305de592c" tvg-chno="2",101 TV MALAGA (6)
 http://192.168.69.51:9981/stream/channelid/2055388808?profile=pass
-#EXTINF:-1 tvg-id="c81136270678559d105964bd23ddfbfb" tvg-chno="4",ADVANCE SIC (6)
-http://192.168.69.51:9981/stream/channelid/657854920?profile=pass
-#EXTINF:-1 tvg-id="dc6a0e144ce7cd619b7e83f6b3901447" tvg-chno="5",324 CAT (6)
+#EXTINF:-1 tvg-id="da99722dad5f8ca6835af793520b784b" tvg-chno="2",A&E (6)
+http://192.168.69.51:9981/stream/channelid/762485210?profile=pass
+#EXTINF:-1 tvg-id="dc6a0e144ce7cd619b7e83f6b3901447" tvg-chno="3",324 CAT (6)
 http://192.168.69.51:9981/stream/channelid/336489180?profile=pass
-#EXTINF:-1 tvg-id="022a7616df9dbe088069c5525b5a53a9" tvg-chno="5",AFRO MUSIC CHANNEL (6)
-http://192.168.69.51:9981/stream/channelid/376842754?profile=pass
-#EXTINF:-1 tvg-id="e96889366bddc4307b9f42eb72bae28b" tvg-chno="6",4 TV VALL UXA (6)
+#EXTINF:-1 tvg-id="c81136270678559d105964bd23ddfbfb" tvg-chno="3",ADVANCE SIC (6)
+http://192.168.69.51:9981/stream/channelid/657854920?profile=pass
+#EXTINF:-1 tvg-id="e96889366bddc4307b9f42eb72bae28b" tvg-chno="4",4 TV VALL UXA (6)
 http://192.168.69.51:9981/stream/channelid/914974953?profile=pass
-#EXTINF:-1 tvg-id="b83d1a06d40c20fe5ae987dcdb2561e5" tvg-chno="6",ALMA LUSA (6)
-http://192.168.69.51:9981/stream/channelid/102383032?profile=pass
-#EXTINF:-1 tvg-id="f81c57af7587904aca139b324dff9524" tvg-chno="7",AMC (6)
+#EXTINF:-1 tvg-id="f81c57af7587904aca139b324dff9524" tvg-chno="4",AMC (6)
 http://192.168.69.51:9981/stream/channelid/794238200?profile=pass
-#EXTINF:-1 tvg-id="c3abaf596c8b5cdfa7a28f51daa02cf7" tvg-chno="8",8TV MADRID (6)
-http://192.168.69.51:9981/stream/channelid/1504684995?profile=pass
-#EXTINF:-1 tvg-id="aaa0bb95c5cbabf05b86f9a0be41da3d" tvg-chno="8",AR TV (6)
+#EXTINF:-1 tvg-id="aaa0bb95c5cbabf05b86f9a0be41da3d" tvg-chno="5",AR TV (6)
 http://192.168.69.51:9981/stream/channelid/364617898?profile=pass
-#EXTINF:-1 tvg-id="b924148a29a8a0bb8be9ccdbec6edc9c" tvg-chno="9",A PUNT (6)
-http://192.168.69.51:9981/stream/channelid/169092281?profile=pass
-#EXTINF:-1 tvg-id="99eeab6dd2b35e7b9de593fc2b188b62" tvg-chno="9",AXN (6)
-http://192.168.69.51:9981/stream/channelid/1839984281?profile=pass
-#EXTINF:-1 tvg-id="03e180b30cded1b11eb872bddb12680b" tvg-chno="10",A&E (6)
-http://192.168.69.51:9981/stream/channelid/864084227?profile=pass
-#EXTINF:-1 tvg-id="b94db4bc08c841ae2864ebf1f9a72edb" tvg-chno="10",AXN BLACK (6)
-http://192.168.69.51:9981/stream/channelid/1018449337?profile=pass
-#EXTINF:-1 tvg-id="349b2b2831548386aa96301a6213ae8f" tvg-chno="11",A3 CINE (6)
-http://192.168.69.51:9981/stream/channelid/673946420?profile=pass
-#EXTINF:-1 tvg-id="fd9f3a6869467de1fddc258c0aafec0d" tvg-chno="11",AXN MOVIES (6)
-http://192.168.69.51:9981/stream/channelid/1748672509?profile=pass
-#EXTINF:-1 tvg-id="aec95e69851d79f9d7c4fd121a608766" tvg-chno="12",ACTIVA TV (6)
-http://192.168.69.51:9981/stream/channelid/1767819694?profile=pass
-#EXTINF:-1 tvg-id="660a9dd256c906d33e5e71cc7ab92b31" tvg-chno="12",AXN WHITE (6)
+#EXTINF:-1 tvg-id="c3abaf596c8b5cdfa7a28f51daa02cf7" tvg-chno="6",8TV MADRID (6)
+http://192.168.69.51:9981/stream/channelid/1504684995?profile=pass
+#EXTINF:-1 tvg-id="660a9dd256c906d33e5e71cc7ab92b31" tvg-chno="6",AXN WHITE (6)
 http://192.168.69.51:9981/stream/channelid/1386023526?profile=pass
-#EXTINF:-1 tvg-id="9d15deaf77a5e951ea4135964c2f007a" tvg-chno="13",AFV ESPANOL (6)
-http://192.168.69.51:9981/stream/channelid/803083677?profile=pass
-#EXTINF:-1 tvg-id="f7d7985fc0f211503d7b1fe25cf28fd1" tvg-chno="13",BABY TV (6)
-http://192.168.69.51:9981/stream/channelid/1603852279?profile=pass
-#EXTINF:-1 tvg-id="b2268b2009c54707d6154c8db6866e16" tvg-chno="14",ALACANTI TV (6)
-http://192.168.69.51:9981/stream/channelid/545990322?profile=pass
-#EXTINF:-1 tvg-id="b55decdec5aa71e69f3adb31a7e31b84" tvg-chno="14",BENFICA TV (6)
+#EXTINF:-1 tvg-id="b924148a29a8a0bb8be9ccdbec6edc9c" tvg-chno="7",A PUNT (6)
+http://192.168.69.51:9981/stream/channelid/169092281?profile=pass
+#EXTINF:-1 tvg-id="b55decdec5aa71e69f3adb31a7e31b84" tvg-chno="7",BENFICA TV (6)
 http://192.168.69.51:9981/stream/channelid/1592548789?profile=pass
-#EXTINF:-1 tvg-id="7ac32dab61cb303f8c209279a5fed492" tvg-chno="15",ALCARRIA TV (6)
-http://192.168.69.51:9981/stream/channelid/724419450?profile=pass
-#EXTINF:-1 tvg-id="8841df2543c5a552ac08aa765d64a346" tvg-chno="15",BIGGS (6)
-http://192.168.69.51:9981/stream/channelid/635388296?profile=pass
-#EXTINF:-1 tvg-id="bfa30b2804b2092063b8c9e7c0f61b45" tvg-chno="16",AMC (6)
-http://192.168.69.51:9981/stream/channelid/671851455?profile=pass
-#EXTINF:-1 tvg-id="a9004ab63584ea84f0923a0f96910ec2" tvg-chno="16",BLAZE (6)
-http://192.168.69.51:9981/stream/channelid/910819497?profile=pass
-#EXTINF:-1 tvg-id="6c034c75482c6ca619c93b3497693cf2" tvg-chno="17",AMC BREAK (6)
-http://192.168.69.51:9981/stream/channelid/1967915884?profile=pass
-#EXTINF:-1 tvg-id="1a2eed623693a24238ffd5aa5f6cfab3" tvg-chno="17",BLOOMBERG (6)
+#EXTINF:-1 tvg-id="03e180b30cded1b11eb872bddb12680b" tvg-chno="8",A&E (6)
+http://192.168.69.51:9981/stream/channelid/864084227?profile=pass
+#EXTINF:-1 tvg-id="1a2eed623693a24238ffd5aa5f6cfab3" tvg-chno="8",BLOOMBERG (6)
 http://192.168.69.51:9981/stream/channelid/1659711002?profile=pass
-#EXTINF:-1 tvg-id="5c2805e10fd2d16eefc761b3e01ec47e" tvg-chno="18",BOOMERANG (6)
+#EXTINF:-1 tvg-id="aec95e69851d79f9d7c4fd121a608766" tvg-chno="9",ACTIVA TV (6)
+http://192.168.69.51:9981/stream/channelid/1767819694?profile=pass
+#EXTINF:-1 tvg-id="5c2805e10fd2d16eefc761b3e01ec47e" tvg-chno="9",BOOMERANG (6)
 http://192.168.69.51:9981/stream/channelid/1627727964?profile=pass
-#EXTINF:-1 tvg-id="94b505c9af317ec8fedf609dd714fa1a" tvg-chno="19",ANTENA 3 (6)
-http://192.168.69.51:9981/stream/channelid/1225110932?profile=pass
-#EXTINF:-1 tvg-id="cdee055203282212b51dcbdec6b613a4" tvg-chno="19",CANAL 11 (6)
-http://192.168.69.51:9981/stream/channelid/1376120525?profile=pass
-#EXTINF:-1 tvg-id="9459f4268ffb1372097ae70e7d132272" tvg-chno="20",ARAGON TV INTERNACIONAL (6)
-http://192.168.69.51:9981/stream/channelid/653547924?profile=pass
-#EXTINF:-1 tvg-id="fbd19fbcd259be8546ca8fb4f0f748dd" tvg-chno="20",CANAL HOLLYWOOD (6)
+#EXTINF:-1 tvg-id="9d15deaf77a5e951ea4135964c2f007a" tvg-chno="10",AFV ESPANOL (6)
+http://192.168.69.51:9981/stream/channelid/803083677?profile=pass
+#EXTINF:-1 tvg-id="fbd19fbcd259be8546ca8fb4f0f748dd" tvg-chno="10",CANAL HOLLYWOOD (6)
 http://192.168.69.51:9981/stream/channelid/1017106939?profile=pass
-#EXTINF:-1 tvg-id="8543698830b05536c0188478176c8dfd" tvg-chno="21",ATRESERIES (6)
-http://192.168.69.51:9981/stream/channelid/141116293?profile=pass
-#EXTINF:-1 tvg-id="fee505b8061a5c723d74a26ee40cd2e9" tvg-chno="21",CANAL MACAU (6)
+#EXTINF:-1 tvg-id="b2268b2009c54707d6154c8db6866e16" tvg-chno="11",ALACANTI TV (6)
+http://192.168.69.51:9981/stream/channelid/545990322?profile=pass
+#EXTINF:-1 tvg-id="fee505b8061a5c723d74a26ee40cd2e9" tvg-chno="11",CANAL MACAU (6)
 http://192.168.69.51:9981/stream/channelid/939910654?profile=pass
-#EXTINF:-1 tvg-id="24b21f6684619831e84a43dc5259dd00" tvg-chno="22",AXN (6)
-http://192.168.69.51:9981/stream/channelid/1713353252?profile=pass
-#EXTINF:-1 tvg-id="fa6670db1bf92b410395678651e00a05" tvg-chno="22",CANAL NOS (6)
+#EXTINF:-1 tvg-id="7ac32dab61cb303f8c209279a5fed492" tvg-chno="12",ALCARRIA TV (6)
+http://192.168.69.51:9981/stream/channelid/724419450?profile=pass
+#EXTINF:-1 tvg-id="fa6670db1bf92b410395678651e00a05" tvg-chno="12",CANAL NOS (6)
 http://192.168.69.51:9981/stream/channelid/1534093050?profile=pass
-#EXTINF:-1 tvg-id="e6b8d61fc207447f4d54dbc8cd19b04c" tvg-chno="23",AXN WHITE (6)
-http://192.168.69.51:9981/stream/channelid/534165734?profile=pass
-#EXTINF:-1 tvg-id="2e4c52a3b085af10424acd5a29e3aa84" tvg-chno="23",CANAL PANDA (6)
+#EXTINF:-1 tvg-id="6c034c75482c6ca619c93b3497693cf2" tvg-chno="13",AMC BREAK (6)
+http://192.168.69.51:9981/stream/channelid/1967915884?profile=pass
+#EXTINF:-1 tvg-id="2e4c52a3b085af10424acd5a29e3aa84" tvg-chno="13",CANAL PANDA (6)
 http://192.168.69.51:9981/stream/channelid/592596014?profile=pass
-#EXTINF:-1 tvg-id="6467ea38d98a41c52759b1fc4753766c" tvg-chno="24",BABY TV (6)
-http://192.168.69.51:9981/stream/channelid/954885988?profile=pass
-#EXTINF:-1 tvg-id="f1ac1f549cf7d26f95d95881cf4cb04b" tvg-chno="24",CANAL Q (6)
+#EXTINF:-1 tvg-id="94b505c9af317ec8fedf609dd714fa1a" tvg-chno="14",ANTENA 3 (6)
+http://192.168.69.51:9981/stream/channelid/1225110932?profile=pass
+#EXTINF:-1 tvg-id="f1ac1f549cf7d26f95d95881cf4cb04b" tvg-chno="14",CANAL Q (6)
 http://192.168.69.51:9981/stream/channelid/1411362033?profile=pass
-#EXTINF:-1 tvg-id="44e3934f534821ed58c834d344571b1e" tvg-chno="25",BAILEN TV (6)
-http://192.168.69.51:9981/stream/channelid/1335092036?profile=pass
-#EXTINF:-1 tvg-id="508c8989bbb1fd7d3547764c90acaa00" tvg-chno="25",CANCAO NOVA (6)
-http://192.168.69.51:9981/stream/channelid/160009296?profile=pass
-#EXTINF:-1 tvg-id="1e4370a23e4f7f1057c72ba89c052328" tvg-chno="26",BARCA TV (6)
-http://192.168.69.51:9981/stream/channelid/577782558?profile=pass
-#EXTINF:-1 tvg-id="aec0a356e7527f65555b5253af291c4b" tvg-chno="26",CARTOON NETWORK (6)
+#EXTINF:-1 tvg-id="9459f4268ffb1372097ae70e7d132272" tvg-chno="15",ARAGON TV INTERNACIONAL (6)
+http://192.168.69.51:9981/stream/channelid/653547924?profile=pass
+#EXTINF:-1 tvg-id="aec0a356e7527f65555b5253af291c4b" tvg-chno="15",CARTOON NETWORK (6)
 http://192.168.69.51:9981/stream/channelid/1453572270?profile=pass
-#EXTINF:-1 tvg-id="60cc4d579fc23caa67f24fbf6e9855e2" tvg-chno="27",BE MAD (6)
-http://192.168.69.51:9981/stream/channelid/1464716384?profile=pass
-#EXTINF:-1 tvg-id="4b102f9165e0400ff005b6903a2bbc99" tvg-chno="27",CASA E COZINHA (6)
+#EXTINF:-1 tvg-id="8543698830b05536c0188478176c8dfd" tvg-chno="16",ATRESERIES (6)
+http://192.168.69.51:9981/stream/channelid/141116293?profile=pass
+#EXTINF:-1 tvg-id="4b102f9165e0400ff005b6903a2bbc99" tvg-chno="16",CASA E COZINHA (6)
 http://192.168.69.51:9981/stream/channelid/288297035?profile=pass
-#EXTINF:-1 tvg-id="40e0ab9023bedff676f770407c67c51a" tvg-chno="28",BEIN SPORTS XTRA EN ESPANOL (6)
-http://192.168.69.51:9981/stream/channelid/279699520?profile=pass
-#EXTINF:-1 tvg-id="bfb473c7a5be8972054b67971aa473dd" tvg-chno="28",CAZA Y PESCA (6)
+#EXTINF:-1 tvg-id="e6b8d61fc207447f4d54dbc8cd19b04c" tvg-chno="17",AXN WHITE (6)
+http://192.168.69.51:9981/stream/channelid/534165734?profile=pass
+#EXTINF:-1 tvg-id="bfb473c7a5be8972054b67971aa473dd" tvg-chno="17",CAZA Y PESCA (6)
 http://192.168.69.51:9981/stream/channelid/1198765247?profile=pass
-#EXTINF:-1 tvg-id="769412b8dd21db3edce45066b0330096" tvg-chno="29",BETEVE (6)
-http://192.168.69.51:9981/stream/channelid/940741750?profile=pass
-#EXTINF:-1 tvg-id="7cd8da058844159289a168ed49141add" tvg-chno="29",CA\u00c7AVISION (6)
-http://192.168.69.51:9981/stream/channelid/98228348?profile=pass
-#EXTINF:-1 tvg-id="8e7b002d6f712e3870cbd31f4c7bfa75" tvg-chno="30",BLAZE (6)
-http://192.168.69.51:9981/stream/channelid/755006350?profile=pass
-#EXTINF:-1 tvg-id="86d85d4210c93828798babb95c7af2bd" tvg-chno="30",CBS REALITY (6)
+#EXTINF:-1 tvg-id="6467ea38d98a41c52759b1fc4753766c" tvg-chno="18",BABY TV (6)
+http://192.168.69.51:9981/stream/channelid/954885988?profile=pass
+#EXTINF:-1 tvg-id="86d85d4210c93828798babb95c7af2bd" tvg-chno="18",CBS REALITY (6)
 http://192.168.69.51:9981/stream/channelid/1113446534?profile=pass
-#EXTINF:-1 tvg-id="2ca8e37573c6e70cf9e80406d371b581" tvg-chno="31",BLOOMBERG TV EMEA LIVE EVENT (6)
-http://192.168.69.51:9981/stream/channelid/1977853996?profile=pass
-#EXTINF:-1 tvg-id="cd09d76ab36f63523dcb8a8d7d1384be" tvg-chno="31",CINE MUNDO (6)
+#EXTINF:-1 tvg-id="44e3934f534821ed58c834d344571b1e" tvg-chno="19",BAILEN TV (6)
+http://192.168.69.51:9981/stream/channelid/1335092036?profile=pass
+#EXTINF:-1 tvg-id="cd09d76ab36f63523dcb8a8d7d1384be" tvg-chno="19",CINE MUNDO (6)
 http://192.168.69.51:9981/stream/channelid/1792477645?profile=pass
-#EXTINF:-1 tvg-id="7db746f8875370ea9eaf586533698a81" tvg-chno="32",BLOOMBERG TV EUROPE (6)
-http://192.168.69.51:9981/stream/channelid/2017900413?profile=pass
-#EXTINF:-1 tvg-id="f4b414b66962eee76deb7a058f45b718" tvg-chno="32",CM TV (6)
-http://192.168.69.51:9981/stream/channelid/907326708?profile=pass
-#EXTINF:-1 tvg-id="b55187e052c87c5cd9f61ba6959dcc67" tvg-chno="33",BOING (6)
-http://192.168.69.51:9981/stream/channelid/1619481013?profile=pass
-#EXTINF:-1 tvg-id="2443580d99ca7964fffa577597dcca8e" tvg-chno="33",CNN PORTUGAL (6)
+#EXTINF:-1 tvg-id="1e4370a23e4f7f1057c72ba89c052328" tvg-chno="20",BARCA TV (6)
+http://192.168.69.51:9981/stream/channelid/577782558?profile=pass
+#EXTINF:-1 tvg-id="2443580d99ca7964fffa577597dcca8e" tvg-chno="20",CNN PORTUGAL (6)
 http://192.168.69.51:9981/stream/channelid/223888164?profile=pass
-#EXTINF:-1 tvg-id="52a94031b314a19f2bf998166f4ff438" tvg-chno="34",BOM CINE (6)
-http://192.168.69.51:9981/stream/channelid/826321234?profile=pass
-#EXTINF:-1 tvg-id="b6bb38d1ce4c1820de1a2269e1d3fb98" tvg-chno="35",DISCOVERY WORLD (6)
+#EXTINF:-1 tvg-id="60cc4d579fc23caa67f24fbf6e9855e2" tvg-chno="21",BE MAD (6)
+http://192.168.69.51:9981/stream/channelid/1464716384?profile=pass
+#EXTINF:-1 tvg-id="8e7b002d6f712e3870cbd31f4c7bfa75" tvg-chno="22",BLAZE (6)
+http://192.168.69.51:9981/stream/channelid/755006350?profile=pass
+#EXTINF:-1 tvg-id="b6bb38d1ce4c1820de1a2269e1d3fb98" tvg-chno="22",DISCOVERY WORLD (6)
 http://192.168.69.51:9981/stream/channelid/1362672566?profile=pass
-#EXTINF:-1 tvg-id="9e40fc90591e28b7978ecf6b97a80283" tvg-chno="36",CADENA ELITE (6)
-http://192.168.69.51:9981/stream/channelid/284967070?profile=pass
-#EXTINF:-1 tvg-id="98e81d92e1d307c1ce11ec138b3e934d" tvg-chno="36",DISNEY+ (6)
+#EXTINF:-1 tvg-id="2ca8e37573c6e70cf9e80406d371b581" tvg-chno="23",BLOOMBERG TV EMEA LIVE EVENT (6)
+http://192.168.69.51:9981/stream/channelid/1977853996?profile=pass
+#EXTINF:-1 tvg-id="98e81d92e1d307c1ce11ec138b3e934d" tvg-chno="23",DISNEY+ (6)
 http://192.168.69.51:9981/stream/channelid/303949976?profile=pass
-#EXTINF:-1 tvg-id="3d3a729f6799afb5ed59702ecf2b148a" tvg-chno="37",CALLE 13 (6)
-http://192.168.69.51:9981/stream/channelid/527579709?profile=pass
-#EXTINF:-1 tvg-id="db2b35c991770a7eeb20d852b497b829" tvg-chno="37",DISNEY+ PIXAR (6)
+#EXTINF:-1 tvg-id="7db746f8875370ea9eaf586533698a81" tvg-chno="24",BLOOMBERG TV EUROPE (6)
+http://192.168.69.51:9981/stream/channelid/2017900413?profile=pass
+#EXTINF:-1 tvg-id="db2b35c991770a7eeb20d852b497b829" tvg-chno="24",DISNEY+ PIXAR (6)
 http://192.168.69.51:9981/stream/channelid/1228221403?profile=pass
-#EXTINF:-1 tvg-id="6945a291f47c1491b6ad936f97635d37" tvg-chno="38",CANAL 10 EMPORDA (6)
-http://192.168.69.51:9981/stream/channelid/295847273?profile=pass
-#EXTINF:-1 tvg-id="bcfd4a83696d3dc7b6f62d9885567148" tvg-chno="38",E! (6)
+#EXTINF:-1 tvg-id="b55187e052c87c5cd9f61ba6959dcc67" tvg-chno="25",BOING (6)
+http://192.168.69.51:9981/stream/channelid/1619481013?profile=pass
+#EXTINF:-1 tvg-id="bcfd4a83696d3dc7b6f62d9885567148" tvg-chno="25",E! (6)
 http://192.168.69.51:9981/stream/channelid/55246268?profile=pass
-#EXTINF:-1 tvg-id="78b9b12acdb91bce75bc51d2fd6f90a9" tvg-chno="39",CANAL 24 HORAS (6)
-http://192.168.69.51:9981/stream/channelid/716290424?profile=pass
-#EXTINF:-1 tvg-id="abeb68ec811c5c429b5af5811f0c3b33" tvg-chno="39",ELEVEN SPORTS 1 (6)
+#EXTINF:-1 tvg-id="52a94031b314a19f2bf998166f4ff438" tvg-chno="26",BOM CINE (6)
+http://192.168.69.51:9981/stream/channelid/826321234?profile=pass
+#EXTINF:-1 tvg-id="abeb68ec811c5c429b5af5811f0c3b33" tvg-chno="26",ELEVEN SPORTS 1 (6)
 http://192.168.69.51:9981/stream/channelid/1818815403?profile=pass
-#EXTINF:-1 tvg-id="e605089764056c2fdafc28320ae74425" tvg-chno="40",CANAL 25 BARBASTRO (6)
-http://192.168.69.51:9981/stream/channelid/386401766?profile=pass
-#EXTINF:-1 tvg-id="8071fca844f1ae51a2bc9bd3ff750707" tvg-chno="40",ELEVEN SPORTS 2 (6)
+#EXTINF:-1 tvg-id="8071fca844f1ae51a2bc9bd3ff750707" tvg-chno="27",ELEVEN SPORTS 2 (6)
 http://192.168.69.51:9981/stream/channelid/687632768?profile=pass
-#EXTINF:-1 tvg-id="eb3244dad72c03383bc13c64d02abe5e" tvg-chno="41",CANAL 33 (6)
-http://192.168.69.51:9981/stream/channelid/1514418923?profile=pass
-#EXTINF:-1 tvg-id="900db259f05caa5542f0e844030de2d5" tvg-chno="41",ELEVEN SPORTS 3 (6)
+#EXTINF:-1 tvg-id="9e40fc90591e28b7978ecf6b97a80283" tvg-chno="28",CADENA ELITE (6)
+http://192.168.69.51:9981/stream/channelid/284967070?profile=pass
+#EXTINF:-1 tvg-id="900db259f05caa5542f0e844030de2d5" tvg-chno="28",ELEVEN SPORTS 3 (6)
 http://192.168.69.51:9981/stream/channelid/1504841104?profile=pass
-#EXTINF:-1 tvg-id="20d3aa05c9ba42cf1b1b81974c405ef0" tvg-chno="42",CANAL 56 (6)
-http://192.168.69.51:9981/stream/channelid/95081248?profile=pass
-#EXTINF:-1 tvg-id="ead75f37c09d7440eddd06c96dc1309f" tvg-chno="42",ELEVEN SPORTS 4 (6)
+#EXTINF:-1 tvg-id="6945a291f47c1491b6ad936f97635d37" tvg-chno="29",CANAL 10 EMPORDA (6)
+http://192.168.69.51:9981/stream/channelid/295847273?profile=pass
+#EXTINF:-1 tvg-id="ead75f37c09d7440eddd06c96dc1309f" tvg-chno="29",ELEVEN SPORTS 4 (6)
 http://192.168.69.51:9981/stream/channelid/929028074?profile=pass
-#EXTINF:-1 tvg-id="e8c56b04b49609512fd1e1c45662b31b" tvg-chno="43",CANAL COCINA (6)
-http://192.168.69.51:9981/stream/channelid/74171880?profile=pass
-#EXTINF:-1 tvg-id="8468c59a283f11b4168073dbf6e1cc8a" tvg-chno="43",ELEVEN SPORTS 5 (6)
+#EXTINF:-1 tvg-id="78b9b12acdb91bce75bc51d2fd6f90a9" tvg-chno="30",CANAL 24 HORAS (6)
+http://192.168.69.51:9981/stream/channelid/716290424?profile=pass
+#EXTINF:-1 tvg-id="8468c59a283f11b4168073dbf6e1cc8a" tvg-chno="30",ELEVEN SPORTS 5 (6)
 http://192.168.69.51:9981/stream/channelid/449144964?profile=pass
-#EXTINF:-1 tvg-id="15dde43cce168629f435e1101fc61e25" tvg-chno="44",ELEVEN SPORTS 6 (6)
+#EXTINF:-1 tvg-id="e605089764056c2fdafc28320ae74425" tvg-chno="31",CANAL 25 BARBASTRO (6)
+http://192.168.69.51:9981/stream/channelid/386401766?profile=pass
+#EXTINF:-1 tvg-id="15dde43cce168629f435e1101fc61e25" tvg-chno="31",ELEVEN SPORTS 6 (6)
 http://192.168.69.51:9981/stream/channelid/1021631765?profile=pass
-#EXTINF:-1 tvg-id="f3983a875d0b910facdcb1100b323d58" tvg-chno="45",EURONEWS (6)
+#EXTINF:-1 tvg-id="f3983a875d0b910facdcb1100b323d58" tvg-chno="32",EURONEWS (6)
 http://192.168.69.51:9981/stream/channelid/121280755?profile=pass
-#EXTINF:-1 tvg-id="4b2823643bd56dca6e83429db4bcbc85" tvg-chno="46",CANAL HOLLYWOOD (6)
-http://192.168.69.51:9981/stream/channelid/1680025675?profile=pass
-#EXTINF:-1 tvg-id="2bd7ff26609baf058d818b6e5edad665" tvg-chno="46",EUROSPORT 1 (6)
-http://192.168.69.51:9981/stream/channelid/654300971?profile=pass
-#EXTINF:-1 tvg-id="03eb522a97d84aba8e67d51680266da4" tvg-chno="47",CANAL MALAGA (6)
+#EXTINF:-1 tvg-id="03eb522a97d84aba8e67d51680266da4" tvg-chno="33",CANAL MALAGA (6)
 http://192.168.69.51:9981/stream/channelid/710077187?profile=pass
-#EXTINF:-1 tvg-id="9476f2dca5a879a0909d28d77d69129a" tvg-chno="47",EUROSPORT 2 (6)
+#EXTINF:-1 tvg-id="2bd7ff26609baf058d818b6e5edad665" tvg-chno="33",EUROSPORT 1 (6)
+http://192.168.69.51:9981/stream/channelid/654300971?profile=pass
+#EXTINF:-1 tvg-id="9476f2dca5a879a0909d28d77d69129a" tvg-chno="34",EUROSPORT 2 (6)
 http://192.168.69.51:9981/stream/channelid/1559393940?profile=pass
-#EXTINF:-1 tvg-id="113ecb9daf9418da985a91a5e7a18585" tvg-chno="48",CANAL ODISEA (6)
-http://192.168.69.51:9981/stream/channelid/499858961?profile=pass
-#EXTINF:-1 tvg-id="6f5058cd1797aa75b1deaf3580bbfc27" tvg-chno="48",FOOD NETWORK (6)
+#EXTINF:-1 tvg-id="6f5058cd1797aa75b1deaf3580bbfc27" tvg-chno="35",FOOD NETWORK (6)
 http://192.168.69.51:9981/stream/channelid/1297633391?profile=pass
-#EXTINF:-1 tvg-id="148510c0efd097de46d9f3b9a6261c94" tvg-chno="49",CANAL PANDA (6)
-http://192.168.69.51:9981/stream/channelid/1074824468?profile=pass
-#EXTINF:-1 tvg-id="56770ca4d4e154a0dbfac993ed134dda" tvg-chno="49",FOX (6)
+#EXTINF:-1 tvg-id="56770ca4d4e154a0dbfac993ed134dda" tvg-chno="36",FOX (6)
 http://192.168.69.51:9981/stream/channelid/604796758?profile=pass
-#EXTINF:-1 tvg-id="b2aa62a992d188cef22d4d627e208f6d" tvg-chno="50",FOX COMEDY (6)
-http://192.168.69.51:9981/stream/channelid/694332082?profile=pass
-#EXTINF:-1 tvg-id="0e6c5c01d905d2a3482d9a73a77ab0b4" tvg-chno="51",FOX CRIME (6)
-http://192.168.69.51:9981/stream/channelid/22834190?profile=pass
-#EXTINF:-1 tvg-id="3e92ac24f7525280127e7f12a262e7b7" tvg-chno="52",FOX LIFE (6)
-http://192.168.69.51:9981/stream/channelid/615289406?profile=pass
-#EXTINF:-1 tvg-id="58f7c49dcb7a43674c3e90568e169472" tvg-chno="53",CANAL SUR ANDALUCIA (6)
+#EXTINF:-1 tvg-id="58f7c49dcb7a43674c3e90568e169472" tvg-chno="37",CANAL SUR ANDALUCIA (6)
 http://192.168.69.51:9981/stream/channelid/499447640?profile=pass
-#EXTINF:-1 tvg-id="a7c9c6c3f9aa01689d0f92e7839b7f55" tvg-chno="53",FOX MOVIES (6)
-http://192.168.69.51:9981/stream/channelid/1137101223?profile=pass
-#EXTINF:-1 tvg-id="53fadfed0e522d75b36a3fa1ca802612" tvg-chno="54",CAZA Y PESCA (6)
-http://192.168.69.51:9981/stream/channelid/1843395155?profile=pass
-#EXTINF:-1 tvg-id="36a72c73ac4c21b4b819d3adc27c2707" tvg-chno="54",FUEL TV (6)
-http://192.168.69.51:9981/stream/channelid/1932306230?profile=pass
-#EXTINF:-1 tvg-id="902e95fbadcbc612cd194189ddfbec58" tvg-chno="55",CLAN TVE (6)
+#EXTINF:-1 tvg-id="b2aa62a992d188cef22d4d627e208f6d" tvg-chno="37",FOX COMEDY (6)
+http://192.168.69.51:9981/stream/channelid/694332082?profile=pass
+#EXTINF:-1 tvg-id="902e95fbadcbc612cd194189ddfbec58" tvg-chno="38",CLAN TVE (6)
 http://192.168.69.51:9981/stream/channelid/2073374352?profile=pass
-#EXTINF:-1 tvg-id="9bed2d331a462b636a56041706d8421d" tvg-chno="56",CNN EN ESPANOL (6)
-http://192.168.69.51:9981/stream/channelid/858647963?profile=pass
-#EXTINF:-1 tvg-id="3d020cbc732d30cdbad07ab3a628835e" tvg-chno="56",HISTORIA (6)
-http://192.168.69.51:9981/stream/channelid/1007419965?profile=pass
-#EXTINF:-1 tvg-id="76dc111a9691384a06052121925a782e" tvg-chno="57",COMEDY CENTRAL (6)
-http://192.168.69.51:9981/stream/channelid/437378166?profile=pass
-#EXTINF:-1 tvg-id="9ac9619338e6dc936f5db916cdfb0d9c" tvg-chno="58",COSMOPOLITAN TV (6)
+#EXTINF:-1 tvg-id="a7c9c6c3f9aa01689d0f92e7839b7f55" tvg-chno="38",FOX MOVIES (6)
+http://192.168.69.51:9981/stream/channelid/1137101223?profile=pass
+#EXTINF:-1 tvg-id="9ac9619338e6dc936f5db916cdfb0d9c" tvg-chno="39",COSMOPOLITAN TV (6)
 http://192.168.69.51:9981/stream/channelid/325175706?profile=pass
-#EXTINF:-1 tvg-id="ff14836816e3686d51e315ae4b59f3c9" tvg-chno="58",INVESTIGATION DISCOVERY (6)
-http://192.168.69.51:9981/stream/channelid/1753421055?profile=pass
-#EXTINF:-1 tvg-id="2b379dcb5066ea334ed6c64069f2e22c" tvg-chno="59",COSTA NOROESTE TV (6)
+#EXTINF:-1 tvg-id="2b379dcb5066ea334ed6c64069f2e22c" tvg-chno="40",COSTA NOROESTE TV (6)
 http://192.168.69.51:9981/stream/channelid/1268594475?profile=pass
-#EXTINF:-1 tvg-id="35eff80b7fe6f7a61ef3b0400ae84614" tvg-chno="59",JIMJAM (6)
-http://192.168.69.51:9981/stream/channelid/200863541?profile=pass
-#EXTINF:-1 tvg-id="5d5bf887b29fff13699268909618c3c7" tvg-chno="60",COSTADELSOL TV (6)
+#EXTINF:-1 tvg-id="36a72c73ac4c21b4b819d3adc27c2707" tvg-chno="40",FUEL TV (6)
+http://192.168.69.51:9981/stream/channelid/1932306230?profile=pass
+#EXTINF:-1 tvg-id="5d5bf887b29fff13699268909618c3c7" tvg-chno="41",COSTADELSOL TV (6)
 http://192.168.69.51:9981/stream/channelid/133716829?profile=pass
-#EXTINF:-1 tvg-id="e77893a4db5fbe1a0c2b4e048c5318de" tvg-chno="61",KURIAKOS TV (6)
-http://192.168.69.51:9981/stream/channelid/613644519?profile=pass
-#EXTINF:-1 tvg-id="a5d53d864e00500a714a2f5851690839" tvg-chno="62",CUATRO (6)
+#EXTINF:-1 tvg-id="3d020cbc732d30cdbad07ab3a628835e" tvg-chno="42",HISTORIA (6)
+http://192.168.69.51:9981/stream/channelid/1007419965?profile=pass
+#EXTINF:-1 tvg-id="a5d53d864e00500a714a2f5851690839" tvg-chno="43",CUATRO (6)
 http://192.168.69.51:9981/stream/channelid/104715685?profile=pass
-#EXTINF:-1 tvg-id="ea7fcc863668ac8ff1c94fe5c53caef2" tvg-chno="62",MEO VIDEOCLUBE (6)
-http://192.168.69.51:9981/stream/channelid/114065386?profile=pass
-#EXTINF:-1 tvg-id="151cbb9fb4a0723915872bcdac963ab6" tvg-chno="63",CULTURA 24 TV (6)
+#EXTINF:-1 tvg-id="ff14836816e3686d51e315ae4b59f3c9" tvg-chno="43",INVESTIGATION DISCOVERY (6)
+http://192.168.69.51:9981/stream/channelid/1753421055?profile=pass
+#EXTINF:-1 tvg-id="151cbb9fb4a0723915872bcdac963ab6" tvg-chno="44",CULTURA 24 TV (6)
 http://192.168.69.51:9981/stream/channelid/532356117?profile=pass
-#EXTINF:-1 tvg-id="c74a8800095e253b5379d0ee67be9866" tvg-chno="63",MOTORVISION TV (6)
-http://192.168.69.51:9981/stream/channelid/8932039?profile=pass
-#EXTINF:-1 tvg-id="ff1c5decabe02a2e5450833d791ae17d" tvg-chno="64",D KISS (6)
+#EXTINF:-1 tvg-id="35eff80b7fe6f7a61ef3b0400ae84614" tvg-chno="44",JIMJAM (6)
+http://192.168.69.51:9981/stream/channelid/200863541?profile=pass
+#EXTINF:-1 tvg-id="ff1c5decabe02a2e5450833d791ae17d" tvg-chno="45",D KISS (6)
 http://192.168.69.51:9981/stream/channelid/1818041599?profile=pass
-#EXTINF:-1 tvg-id="8ff45a292e70ad5b106c01df6d36c084" tvg-chno="64",MTV PORTUGAL (6)
-http://192.168.69.51:9981/stream/channelid/693826703?profile=pass
-#EXTINF:-1 tvg-id="6037eaaee3ce2616538e07f632df224a" tvg-chno="65",DARK (6)
+#EXTINF:-1 tvg-id="6037eaaee3ce2616538e07f632df224a" tvg-chno="46",DARK (6)
 http://192.168.69.51:9981/stream/channelid/787101536?profile=pass
-#EXTINF:-1 tvg-id="498ce975b25418d5a36d8b5b8bbfc133" tvg-chno="65",NAT GEO (6)
-http://192.168.69.51:9981/stream/channelid/1978240073?profile=pass
-#EXTINF:-1 tvg-id="8fee08c66131252a5d6013a5b025d77f" tvg-chno="66",DAZN 1 (6)
-http://192.168.69.51:9981/stream/channelid/1174990479?profile=pass
-#EXTINF:-1 tvg-id="7c671135f28e8c3db37abe6fc1891cf9" tvg-chno="66",NAT GEO WILD (6)
-http://192.168.69.51:9981/stream/channelid/890333052?profile=pass
-#EXTINF:-1 tvg-id="a2b5c2bce0b69a2f065e438882cc3b55" tvg-chno="67",DAZN 2 (6)
-http://192.168.69.51:9981/stream/channelid/1019393442?profile=pass
-#EXTINF:-1 tvg-id="8a493c297a02fd5ab9d75d9acdf39685" tvg-chno="67",NBA TV (6)
-http://192.168.69.51:9981/stream/channelid/691816842?profile=pass
-#EXTINF:-1 tvg-id="2cc9fcbb03ee83eb3d309a98ef788981" tvg-chno="68",DAZN 3 (6)
-http://192.168.69.51:9981/stream/channelid/1006422316?profile=pass
-#EXTINF:-1 tvg-id="5cb927d15b75acc8e4104ab564921829" tvg-chno="68",NICK JUNIOR (6)
-http://192.168.69.51:9981/stream/channelid/1361557852?profile=pass
-#EXTINF:-1 tvg-id="4e2fa340f1b1d37fc5dd8b9b5e6999a2" tvg-chno="69",DAZN 4 (6)
+#EXTINF:-1 tvg-id="e77893a4db5fbe1a0c2b4e048c5318de" tvg-chno="46",KURIAKOS TV (6)
+http://192.168.69.51:9981/stream/channelid/613644519?profile=pass
+#EXTINF:-1 tvg-id="4e2fa340f1b1d37fc5dd8b9b5e6999a2" tvg-chno="47",DAZN 4 (6)
 http://192.168.69.51:9981/stream/channelid/1084436302?profile=pass
-#EXTINF:-1 tvg-id="2d0c76d605dbc0647656609c39113021" tvg-chno="69",NICKELODEON (6)
-http://192.168.69.51:9981/stream/channelid/1450576941?profile=pass
-#EXTINF:-1 tvg-id="f66d94b9bd4c11e85c52d382fb5e6d48" tvg-chno="70",DAZN F1 (6)
+#EXTINF:-1 tvg-id="c74a8800095e253b5379d0ee67be9866" tvg-chno="47",MOTORVISION TV (6)
+http://192.168.69.51:9981/stream/channelid/8932039?profile=pass
+#EXTINF:-1 tvg-id="f66d94b9bd4c11e85c52d382fb5e6d48" tvg-chno="48",DAZN F1 (6)
 http://192.168.69.51:9981/stream/channelid/966028790?profile=pass
-#EXTINF:-1 tvg-id="e617afa2b1a3408e0d752a04510c1e20" tvg-chno="70",NOS STUDIOS (6)
-http://192.168.69.51:9981/stream/channelid/581900262?profile=pass
-#EXTINF:-1 tvg-id="4f3eb70370a0fba57c2092374d8c3e68" tvg-chno="71",DAZN LALIGA (6)
-http://192.168.69.51:9981/stream/channelid/62340687?profile=pass
-#EXTINF:-1 tvg-id="9876b969a9466cce32da98bbfb9c9cea" tvg-chno="72",DECASA (6)
-http://192.168.69.51:9981/stream/channelid/1773762200?profile=pass
-#EXTINF:-1 tvg-id="aacf0b09310f7829409b91ffb4e4a2f9" tvg-chno="72",PANDA KIDS (6)
-http://192.168.69.51:9981/stream/channelid/151769002?profile=pass
-#EXTINF:-1 tvg-id="0bc0b74a8e967ea80afa43a407670376" tvg-chno="73",DIEZ TV (6)
+#EXTINF:-1 tvg-id="8ff45a292e70ad5b106c01df6d36c084" tvg-chno="48",MTV PORTUGAL (6)
+http://192.168.69.51:9981/stream/channelid/693826703?profile=pass
+#EXTINF:-1 tvg-id="0bc0b74a8e967ea80afa43a407670376" tvg-chno="49",DIEZ TV (6)
 http://192.168.69.51:9981/stream/channelid/1253556235?profile=pass
-#EXTINF:-1 tvg-id="c24b402722bc9647fe7151724042ba5c" tvg-chno="73",PORTO CANAL (6)
-http://192.168.69.51:9981/stream/channelid/658525122?profile=pass
-#EXTINF:-1 tvg-id="645d107a0730c1a9e9ecffd88c634955" tvg-chno="74",DISCOVERY WORLD (6)
+#EXTINF:-1 tvg-id="8a493c297a02fd5ab9d75d9acdf39685" tvg-chno="49",NBA TV (6)
+http://192.168.69.51:9981/stream/channelid/691816842?profile=pass
+#EXTINF:-1 tvg-id="645d107a0730c1a9e9ecffd88c634955" tvg-chno="50",DISCOVERY WORLD (6)
 http://192.168.69.51:9981/stream/channelid/2047892836?profile=pass
-#EXTINF:-1 tvg-id="b981dfd8bfb96d3710267ffd3a264369" tvg-chno="74",RTP 1 (6)
-http://192.168.69.51:9981/stream/channelid/1491042745?profile=pass
-#EXTINF:-1 tvg-id="1317f07e429f1d0c619866e3918d1e2e" tvg-chno="75",DIVINITY (6)
+#EXTINF:-1 tvg-id="5cb927d15b75acc8e4104ab564921829" tvg-chno="50",NICK JUNIOR (6)
+http://192.168.69.51:9981/stream/channelid/1361557852?profile=pass
+#EXTINF:-1 tvg-id="2d0c76d605dbc0647656609c39113021" tvg-chno="51",NICKELODEON (6)
+http://192.168.69.51:9981/stream/channelid/1450576941?profile=pass
+#EXTINF:-1 tvg-id="1317f07e429f1d0c619866e3918d1e2e" tvg-chno="52",DIVINITY (6)
 http://192.168.69.51:9981/stream/channelid/2129663763?profile=pass
-#EXTINF:-1 tvg-id="75011dc38cae9a834694c05b8dad1d6d" tvg-chno="75",RTP 2 (6)
-http://192.168.69.51:9981/stream/channelid/1125974389?profile=pass
-#EXTINF:-1 tvg-id="f6e879ec7875373699e6785283c6e7b0" tvg-chno="76",DMAX (6)
-http://192.168.69.51:9981/stream/channelid/1819928822?profile=pass
-#EXTINF:-1 tvg-id="9721bf57b0f1dc939b835d07994bd1a9" tvg-chno="76",RTP 3 (6)
-http://192.168.69.51:9981/stream/channelid/1472143767?profile=pass
-#EXTINF:-1 tvg-id="564fb052718e542637c5bed5ac3bf04f" tvg-chno="77",DREAMWORKS TV (6)
-http://192.168.69.51:9981/stream/channelid/1387286358?profile=pass
-#EXTINF:-1 tvg-id="e4d375fb7bc95fe7542625d0c22f1e21" tvg-chno="77",RTP ARENA (6)
-http://192.168.69.51:9981/stream/channelid/2071319524?profile=pass
-#EXTINF:-1 tvg-id="d17d8cae98559a1af7e55cb5b7b4b40d" tvg-chno="78",RTP A\u00c7ORES (6)
-http://192.168.69.51:9981/stream/channelid/780959185?profile=pass
-#EXTINF:-1 tvg-id="304b8130daa56ab5cab9997eb3054273" tvg-chno="79",EL PINGUINO TV (6)
+#EXTINF:-1 tvg-id="e617afa2b1a3408e0d752a04510c1e20" tvg-chno="52",NOS STUDIOS (6)
+http://192.168.69.51:9981/stream/channelid/581900262?profile=pass
+#EXTINF:-1 tvg-id="304b8130daa56ab5cab9997eb3054273" tvg-chno="54",EL PINGUINO TV (6)
 http://192.168.69.51:9981/stream/channelid/813779760?profile=pass
-#EXTINF:-1 tvg-id="3041466e21661d702ec79819417187ef" tvg-chno="79",RTP MADEIRA (6)
-http://192.168.69.51:9981/stream/channelid/1850097968?profile=pass
-#EXTINF:-1 tvg-id="c50fe540d75c80f8808313a1c30db399" tvg-chno="80",EL TORO TV (6)
+#EXTINF:-1 tvg-id="75011dc38cae9a834694c05b8dad1d6d" tvg-chno="54",RTP 2 (6)
+http://192.168.69.51:9981/stream/channelid/1125974389?profile=pass
+#EXTINF:-1 tvg-id="c50fe540d75c80f8808313a1c30db399" tvg-chno="55",EL TORO TV (6)
 http://192.168.69.51:9981/stream/channelid/1088753605?profile=pass
-#EXTINF:-1 tvg-id="d7313a4d83d38b3bd70bb0c3987d80f2" tvg-chno="81",ENERGY (6)
-http://192.168.69.51:9981/stream/channelid/1295659479?profile=pass
-#EXTINF:-1 tvg-id="9794fd836b0f47a442f210dfa35df6f1" tvg-chno="81",RTP \u00c1FRICA (6)
-http://192.168.69.51:9981/stream/channelid/66950295?profile=pass
-#EXTINF:-1 tvg-id="e6b20cbec4a34d53e0373018035c433e" tvg-chno="82",SAUDE+ (6)
-http://192.168.69.51:9981/stream/channelid/1041019622?profile=pass
-#EXTINF:-1 tvg-id="e514381c6a88fc134bf206c7bbd36939" tvg-chno="83",ESPERANZA TV (6)
+#EXTINF:-1 tvg-id="9721bf57b0f1dc939b835d07994bd1a9" tvg-chno="55",RTP 3 (6)
+http://192.168.69.51:9981/stream/channelid/1472143767?profile=pass
+#EXTINF:-1 tvg-id="e4d375fb7bc95fe7542625d0c22f1e21" tvg-chno="56",RTP ARENA (6)
+http://192.168.69.51:9981/stream/channelid/2071319524?profile=pass
+#EXTINF:-1 tvg-id="e514381c6a88fc134bf206c7bbd36939" tvg-chno="57",ESPERANZA TV (6)
 http://192.168.69.51:9981/stream/channelid/473437413?profile=pass
-#EXTINF:-1 tvg-id="a8b41607ecc9a52b24cda915dafe2099" tvg-chno="83",SIC (6)
-http://192.168.69.51:9981/stream/channelid/118928552?profile=pass
-#EXTINF:-1 tvg-id="9cc5423cbec58172b0a21b6d8095f3d6" tvg-chno="84",SIC CARAS (6)
-http://192.168.69.51:9981/stream/channelid/1011008924?profile=pass
-#EXTINF:-1 tvg-id="3848c058b10a02203360fdc339688341" tvg-chno="85",ESPN 2 (6)
-http://192.168.69.51:9981/stream/channelid/1488996408?profile=pass
-#EXTINF:-1 tvg-id="517e7f62a3a5f72094719676d5146412" tvg-chno="85",SIC INTERNACIONAL (6)
-http://192.168.69.51:9981/stream/channelid/1652522577?profile=pass
-#EXTINF:-1 tvg-id="cb5c7f6a73371a4b23d8f5437e597300" tvg-chno="86",ESPN 3 (6)
+#EXTINF:-1 tvg-id="d17d8cae98559a1af7e55cb5b7b4b40d" tvg-chno="57",RTP A\u00c7ORES (6)
+http://192.168.69.51:9981/stream/channelid/780959185?profile=pass
+#EXTINF:-1 tvg-id="cb5c7f6a73371a4b23d8f5437e597300" tvg-chno="58",ESPN 3 (6)
 http://192.168.69.51:9981/stream/channelid/1786731723?profile=pass
-#EXTINF:-1 tvg-id="83fbc56a4651a8b48f7dd317fb64ff7c" tvg-chno="86",SIC K (6)
-http://192.168.69.51:9981/stream/channelid/1791359875?profile=pass
-#EXTINF:-1 tvg-id="315c94400d3f33335c0c1e5d96ce978e" tvg-chno="87",ESPN DEPORTES (6)
-http://192.168.69.51:9981/stream/channelid/1083464753?profile=pass
-#EXTINF:-1 tvg-id="1979e4f28422d905d92d0eeaa61d4c86" tvg-chno="87",SIC MULHER (6)
-http://192.168.69.51:9981/stream/channelid/1927575833?profile=pass
-#EXTINF:-1 tvg-id="22d051ad110e0287351fb1a8e2bfaf51" tvg-chno="88",SIC NOTICIAS (6)
-http://192.168.69.51:9981/stream/channelid/760336418?profile=pass
-#EXTINF:-1 tvg-id="800aece5aafffc11da5f22cdfc091948" tvg-chno="89",ETB 1 (6)
+#EXTINF:-1 tvg-id="3041466e21661d702ec79819417187ef" tvg-chno="58",RTP MADEIRA (6)
+http://192.168.69.51:9981/stream/channelid/1850097968?profile=pass
+#EXTINF:-1 tvg-id="800aece5aafffc11da5f22cdfc091948" tvg-chno="60",ETB 1 (6)
 http://192.168.69.51:9981/stream/channelid/1709968000?profile=pass
-#EXTINF:-1 tvg-id="74155bb3ca49a570454874107e8c0c83" tvg-chno="89",SIC RADICAL (6)
-http://192.168.69.51:9981/stream/channelid/861607284?profile=pass
-#EXTINF:-1 tvg-id="36a8cad60ba771f30d8c8abc5178a254" tvg-chno="90",ETB 2 (6)
-http://192.168.69.51:9981/stream/channelid/1456121910?profile=pass
-#EXTINF:-1 tvg-id="16679212f288c1a831c0b627c6e00b58" tvg-chno="90",SPORT TV + (6)
-http://192.168.69.51:9981/stream/channelid/311584534?profile=pass
-#EXTINF:-1 tvg-id="bd5debea3f3b72aad9671126df3ad289" tvg-chno="91",ETB BASQUE (6)
-http://192.168.69.51:9981/stream/channelid/1793809853?profile=pass
-#EXTINF:-1 tvg-id="25be5d09f17619e89ac7afabbe0d7d2d" tvg-chno="91",SPORT TV 1 (6)
-http://192.168.69.51:9981/stream/channelid/157138469?profile=pass
-#EXTINF:-1 tvg-id="b205de86862464e7f8ec981e14bcb6fa" tvg-chno="92",EURONEWS EN ESPANOL (6)
+#EXTINF:-1 tvg-id="9794fd836b0f47a442f210dfa35df6f1" tvg-chno="60",RTP \u00c1FRICA (6)
+http://192.168.69.51:9981/stream/channelid/66950295?profile=pass
+#EXTINF:-1 tvg-id="b205de86862464e7f8ec981e14bcb6fa" tvg-chno="61",EURONEWS EN ESPANOL (6)
 http://192.168.69.51:9981/stream/channelid/115213746?profile=pass
-#EXTINF:-1 tvg-id="98da297ed40a03eda8b50936261cd0fd" tvg-chno="92",SPORT TV 2 (6)
-http://192.168.69.51:9981/stream/channelid/2116672152?profile=pass
-#EXTINF:-1 tvg-id="6ef74632662cdd67bc4f2d4ea3772104" tvg-chno="93",EUROSPORT 1 (6)
-http://192.168.69.51:9981/stream/channelid/843511662?profile=pass
-#EXTINF:-1 tvg-id="2d2937e575fc75fd80601ea458770472" tvg-chno="93",SPORT TV 3 (6)
-http://192.168.69.51:9981/stream/channelid/1698113837?profile=pass
-#EXTINF:-1 tvg-id="8f3904ff4b1c8780bf72ac8c603cc007" tvg-chno="94",EUROSPORT 2 (6)
-http://192.168.69.51:9981/stream/channelid/2130983311?profile=pass
-#EXTINF:-1 tvg-id="57b314805bd56355fadcff5e97e4cf1c" tvg-chno="94",SPORT TV 4 (6)
-http://192.168.69.51:9981/stream/channelid/1356631?profile=pass
-#EXTINF:-1 tvg-id="c6568308f6ce2660c017048e8eeda32b" tvg-chno="95",FACTORIA DE FICCION (6)
+#EXTINF:-1 tvg-id="e6b20cbec4a34d53e0373018035c433e" tvg-chno="61",SAUDE+ (6)
+http://192.168.69.51:9981/stream/channelid/1041019622?profile=pass
+#EXTINF:-1 tvg-id="c6568308f6ce2660c017048e8eeda32b" tvg-chno="62",FACTORIA DE FICCION (6)
 http://192.168.69.51:9981/stream/channelid/142825158?profile=pass
-#EXTINF:-1 tvg-id="3eaf8fa6b11bfee37dcace8f62bd788e" tvg-chno="95",SPORT TV 5 (6)
-http://192.168.69.51:9981/stream/channelid/646950718?profile=pass
-#EXTINF:-1 tvg-id="fdc4602b30ee88e960438bedc1bce594" tvg-chno="96",SPORT TV 6 (6)
-http://192.168.69.51:9981/stream/channelid/727762173?profile=pass
-#EXTINF:-1 tvg-id="b202f984afaac5c3dd2ed5af7ce1a14e" tvg-chno="97",FOX (6)
-http://192.168.69.51:9981/stream/channelid/83428018?profile=pass
-#EXTINF:-1 tvg-id="42036bac50af6e519ebc9ab5da161b36" tvg-chno="97",SPORT TV NBA (6)
-http://192.168.69.51:9981/stream/channelid/745210690?profile=pass
-#EXTINF:-1 tvg-id="5dc36c385422add0d696b15050a6f6c8" tvg-chno="98",FOX LIFE (6)
-http://192.168.69.51:9981/stream/channelid/946651997?profile=pass
-#EXTINF:-1 tvg-id="076bcd97a28959dffb3456519065ac5c" tvg-chno="98",SPORTING TV (6)
-http://192.168.69.51:9981/stream/channelid/399338247?profile=pass
-#EXTINF:-1 tvg-id="932648cf6aaf7e7694dc391c5842e27c" tvg-chno="99",FOX SPORTS 2 (6)
-http://192.168.69.51:9981/stream/channelid/1330128531?profile=pass
-#EXTINF:-1 tvg-id="192e0d418794003a1ddb99203f45dc97" tvg-chno="99",SYFY PORTUGAL (6)
-http://192.168.69.51:9981/stream/channelid/1091382809?profile=pass
-#EXTINF:-1 tvg-id="2d8cf8c7b3ce91e36a09938541c8a174" tvg-chno="100",TLC (6)
-http://192.168.69.51:9981/stream/channelid/1207471149?profile=pass
-#EXTINF:-1 tvg-id="f6b0b78590768f0c2d8bac73328915ec" tvg-chno="101",FRANCE 24 (6)
+#EXTINF:-1 tvg-id="83fbc56a4651a8b48f7dd317fb64ff7c" tvg-chno="62",SIC K (6)
+http://192.168.69.51:9981/stream/channelid/1791359875?profile=pass
+#EXTINF:-1 tvg-id="1979e4f28422d905d92d0eeaa61d4c86" tvg-chno="63",SIC MULHER (6)
+http://192.168.69.51:9981/stream/channelid/1927575833?profile=pass
+#EXTINF:-1 tvg-id="f6b0b78590768f0c2d8bac73328915ec" tvg-chno="64",FRANCE 24 (6)
 http://192.168.69.51:9981/stream/channelid/95924470?profile=pass
-#EXTINF:-1 tvg-id="5970ca6b80d32b4c7b64fd66ceff2a5d" tvg-chno="102",GALICIA TV (6)
+#EXTINF:-1 tvg-id="74155bb3ca49a570454874107e8c0c83" tvg-chno="64",SIC RADICAL (6)
+http://192.168.69.51:9981/stream/channelid/861607284?profile=pass
+#EXTINF:-1 tvg-id="5970ca6b80d32b4c7b64fd66ceff2a5d" tvg-chno="65",GALICIA TV (6)
 http://192.168.69.51:9981/stream/channelid/1808429145?profile=pass
-#EXTINF:-1 tvg-id="1912bcc85f88e4e9999c89e535ad5eae" tvg-chno="102",TPA NOT\u00cdCIAS (6)
-http://192.168.69.51:9981/stream/channelid/1220284953?profile=pass
-#EXTINF:-1 tvg-id="5b48039d64a0d290f65a9d15d0cc49ba" tvg-chno="103",TRAVEL CHANNEL (6)
-http://192.168.69.51:9981/stream/channelid/486754395?profile=pass
-#EXTINF:-1 tvg-id="cd0b7620cad028662e4ee6980ac47eba" tvg-chno="104",GIRONA TV (6)
+#EXTINF:-1 tvg-id="16679212f288c1a831c0b627c6e00b58" tvg-chno="65",SPORT TV + (6)
+http://192.168.69.51:9981/stream/channelid/311584534?profile=pass
+#EXTINF:-1 tvg-id="cd0b7620cad028662e4ee6980ac47eba" tvg-chno="66",GIRONA TV (6)
 http://192.168.69.51:9981/stream/channelid/544607181?profile=pass
-#EXTINF:-1 tvg-id="5d5782dce747dcefbf0bf4fb9664e039" tvg-chno="104",TVCINE ACTION (6)
-http://192.168.69.51:9981/stream/channelid/1552045917?profile=pass
-#EXTINF:-1 tvg-id="32d26aa2af5f0e55d30d6493d0f20e08" tvg-chno="105",GOIENA EUS (6)
+#EXTINF:-1 tvg-id="25be5d09f17619e89ac7afabbe0d7d2d" tvg-chno="66",SPORT TV 1 (6)
+http://192.168.69.51:9981/stream/channelid/157138469?profile=pass
+#EXTINF:-1 tvg-id="32d26aa2af5f0e55d30d6493d0f20e08" tvg-chno="67",GOIENA EUS (6)
 http://192.168.69.51:9981/stream/channelid/577425970?profile=pass
-#EXTINF:-1 tvg-id="e18872338cc6024e16971506b763015f" tvg-chno="105",TVCINE EDITION (6)
-http://192.168.69.51:9981/stream/channelid/863144161?profile=pass
-#EXTINF:-1 tvg-id="e03be17e4145daa62f7aae779f2fd23d" tvg-chno="106",TVCINE EMOTION (6)
-http://192.168.69.51:9981/stream/channelid/2128690144?profile=pass
-#EXTINF:-1 tvg-id="e4de82cc2047f54c1b78a4be2e335f2f" tvg-chno="107",GOL PLAY (6)
+#EXTINF:-1 tvg-id="2d2937e575fc75fd80601ea458770472" tvg-chno="67",SPORT TV 3 (6)
+http://192.168.69.51:9981/stream/channelid/1698113837?profile=pass
+#EXTINF:-1 tvg-id="57b314805bd56355fadcff5e97e4cf1c" tvg-chno="68",SPORT TV 4 (6)
+http://192.168.69.51:9981/stream/channelid/1356631?profile=pass
+#EXTINF:-1 tvg-id="e4de82cc2047f54c1b78a4be2e335f2f" tvg-chno="69",GOL PLAY (6)
 http://192.168.69.51:9981/stream/channelid/1283645156?profile=pass
-#EXTINF:-1 tvg-id="40211bd1e89658eaf28f7a9673b7c241" tvg-chno="108",HBO (6)
-http://192.168.69.51:9981/stream/channelid/1360732480?profile=pass
-#EXTINF:-1 tvg-id="2ed40fe90f8ac94b83869556a86526b2" tvg-chno="108",TVI (6)
-http://192.168.69.51:9981/stream/channelid/1762645038?profile=pass
-#EXTINF:-1 tvg-id="d5303c70bbb17281f6ec74dc80e5b1e6" tvg-chno="109",HBO SIGNATURE (6)
+#EXTINF:-1 tvg-id="3eaf8fa6b11bfee37dcace8f62bd788e" tvg-chno="69",SPORT TV 5 (6)
+http://192.168.69.51:9981/stream/channelid/646950718?profile=pass
+#EXTINF:-1 tvg-id="d5303c70bbb17281f6ec74dc80e5b1e6" tvg-chno="70",HBO SIGNATURE (6)
 http://192.168.69.51:9981/stream/channelid/1882992853?profile=pass
-#EXTINF:-1 tvg-id="b7f4ac03ef84db175ea928963c7d019a" tvg-chno="109",TVI FIC\u00c7\u00c3O (6)
-http://192.168.69.51:9981/stream/channelid/61666487?profile=pass
-#EXTINF:-1 tvg-id="1c6f4ecbb6fb039e0069f046ca85821e" tvg-chno="110",TVI REALITY (6)
-http://192.168.69.51:9981/stream/channelid/1263431452?profile=pass
-#EXTINF:-1 tvg-id="f0cd7475cae025eab86774bfc8493e35" tvg-chno="111",24 KITCHEN HD (1)
-http://192.168.69.51:9981/stream/channelid/1970589168?profile=pass
-#EXTINF:-1 tvg-id="314c4b7a2166b0e6769dc02669be16e5" tvg-chno="111",HISTORIA (6)
-http://192.168.69.51:9981/stream/channelid/2051755057?profile=pass
-#EXTINF:-1 tvg-id="9c28b5c9ab7b856a18ba987ca37ad571" tvg-chno="112",HOLA TV (6)
+#EXTINF:-1 tvg-id="42036bac50af6e519ebc9ab5da161b36" tvg-chno="70",SPORT TV NBA (6)
+http://192.168.69.51:9981/stream/channelid/745210690?profile=pass
+#EXTINF:-1 tvg-id="076bcd97a28959dffb3456519065ac5c" tvg-chno="71",SPORTING TV (6)
+http://192.168.69.51:9981/stream/channelid/399338247?profile=pass
+#EXTINF:-1 tvg-id="9c28b5c9ab7b856a18ba987ca37ad571" tvg-chno="72",HOLA TV (6)
 http://192.168.69.51:9981/stream/channelid/1236609180?profile=pass
-#EXTINF:-1 tvg-id="ff37ea214c3bd111d9c99f460fe10984" tvg-chno="112",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3219597817.png",name":"A BOLA TV (1)
-http://192.168.69.51:9981/stream/channelid/568997887?profile=pass
-#EXTINF:-1 tvg-id="befa04c212ac12f76bcf32cb085bf894" tvg-chno="113",AFRO MUSIC (1)
-http://192.168.69.51:9981/stream/channelid/1107622590?profile=pass
-#EXTINF:-1 tvg-id="966e1250f4d2948f23b850699f3bfa37" tvg-chno="113",HOLLYWOOD (6)
+#EXTINF:-1 tvg-id="192e0d418794003a1ddb99203f45dc97" tvg-chno="72",SYFY PORTUGAL (6)
+http://192.168.69.51:9981/stream/channelid/1091382809?profile=pass
+#EXTINF:-1 tvg-id="966e1250f4d2948f23b850699f3bfa37" tvg-chno="73",HOLLYWOOD (6)
 http://192.168.69.51:9981/stream/channelid/1343385238?profile=pass
-#EXTINF:-1 tvg-id="d9faffd29a200b77fdf870963fb9e228" tvg-chno="114",AMC HD (1)
-http://192.168.69.51:9981/stream/channelid/1392507609?profile=pass
-#EXTINF:-1 tvg-id="3148431336535c73922ddc04d057eced" tvg-chno="114",IBERALIA TV (6)
+#EXTINF:-1 tvg-id="2d8cf8c7b3ce91e36a09938541c8a174" tvg-chno="73",TLC (6)
+http://192.168.69.51:9981/stream/channelid/1207471149?profile=pass
+#EXTINF:-1 tvg-id="3148431336535c73922ddc04d057eced" tvg-chno="74",IBERALIA TV (6)
 http://192.168.69.51:9981/stream/channelid/323176497?profile=pass
-#EXTINF:-1 tvg-id="5cf52de8b8ee90be4085af8f08767bf3" tvg-chno="115",IBIZA GLOBAL TV (6)
-http://192.168.69.51:9981/stream/channelid/1747842396?profile=pass
-#EXTINF:-1 tvg-id="9efacb4bbbdaa6d8802b9d26585cea25" tvg-chno="115",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2420284499.png",name":"ARTV (1)
-http://192.168.69.51:9981/stream/channelid/1271659166?profile=pass
-#EXTINF:-1 tvg-id="1bb70739f7bcf0f2529baaa17ce93cc5" tvg-chno="116",AXN HD (1)
-http://192.168.69.51:9981/stream/channelid/956806939?profile=pass
-#EXTINF:-1 tvg-id="a8e6093aee8f55c52d16d53aff5dad98" tvg-chno="116",IMAS TV (6)
+#EXTINF:-1 tvg-id="a8e6093aee8f55c52d16d53aff5dad98" tvg-chno="75",IMAS TV (6)
 http://192.168.69.51:9981/stream/channelid/973727400?profile=pass
-#EXTINF:-1 tvg-id="a722d386b2e088320b4bc9d551784801" tvg-chno="117",INTER ALMERIA (6)
+#EXTINF:-1 tvg-id="a722d386b2e088320b4bc9d551784801" tvg-chno="76",INTER ALMERIA (6)
 http://192.168.69.51:9981/stream/channelid/114500263?profile=pass
-#EXTINF:-1 tvg-id="267cb64afdad206572bc4268c53ad7c8" tvg-chno="118",AXN WHITE HD (1)
-http://192.168.69.51:9981/stream/channelid/1253473318?profile=pass
-#EXTINF:-1 tvg-id="86d153cd035d85673cf3dd398fdc2131" tvg-chno="118",INVESTIGATION DISCOVERY (6)
+#EXTINF:-1 tvg-id="2ed40fe90f8ac94b83869556a86526b2" tvg-chno="76",TVI (6)
+http://192.168.69.51:9981/stream/channelid/1762645038?profile=pass
+#EXTINF:-1 tvg-id="86d153cd035d85673cf3dd398fdc2131" tvg-chno="77",INVESTIGATION DISCOVERY (6)
 http://192.168.69.51:9981/stream/channelid/1297338758?profile=pass
-#EXTINF:-1 tvg-id="d687beaf3b4ac292352f69f6a8e333f3" tvg-chno="119",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/525826199.png",name":"BABY TV (1)
-http://192.168.69.51:9981/stream/channelid/801015766?profile=pass
-#EXTINF:-1 tvg-id="28e58fc1d6d272908b65a27321285ae3" tvg-chno="120",BENFICA TV (1)
-http://192.168.69.51:9981/stream/channelid/1099949352?profile=pass
-#EXTINF:-1 tvg-id="977188150913721368fc092b0754f65c" tvg-chno="120",LA OTRA (6)
+#EXTINF:-1 tvg-id="b7f4ac03ef84db175ea928963c7d019a" tvg-chno="77",TVI FIC\u00c7\u00c3O (6)
+http://192.168.69.51:9981/stream/channelid/61666487?profile=pass
+#EXTINF:-1 tvg-id="f0cd7475cae025eab86774bfc8493e35" tvg-chno="78",24 KITCHEN HD (1)
+http://192.168.69.51:9981/stream/channelid/1970589168?profile=pass
+#EXTINF:-1 tvg-id="ff37ea214c3bd111d9c99f460fe10984" tvg-chno="79",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3219597817.png",name":"A BOLA TV (1)
+http://192.168.69.51:9981/stream/channelid/568997887?profile=pass
+#EXTINF:-1 tvg-id="befa04c212ac12f76bcf32cb085bf894" tvg-chno="80",AFRO MUSIC (1)
+http://192.168.69.51:9981/stream/channelid/1107622590?profile=pass
+#EXTINF:-1 tvg-id="977188150913721368fc092b0754f65c" tvg-chno="80",LA OTRA (6)
 http://192.168.69.51:9981/stream/channelid/361263511?profile=pass
-#EXTINF:-1 tvg-id="30515e100111ed2d194970c9f788a282" tvg-chno="121",BENFICA TV (BACKUP) (1)
-http://192.168.69.51:9981/stream/channelid/274616624?profile=pass
-#EXTINF:-1 tvg-id="2f3c48520bc2c71eed668c34fa165fdc" tvg-chno="121",LA SEXTA (6)
-http://192.168.69.51:9981/stream/channelid/1380465711?profile=pass
-#EXTINF:-1 tvg-id="dc8d01eb571c09dfd6695ad5619ef126" tvg-chno="122",BTV HD (1)
-http://192.168.69.51:9981/stream/channelid/1795263964?profile=pass
-#EXTINF:-1 tvg-id="5466cd30e2d4fd4c525cc7318fc2136f" tvg-chno="122",LA URBAN TV (6)
+#EXTINF:-1 tvg-id="5466cd30e2d4fd4c525cc7318fc2136f" tvg-chno="81",LA URBAN TV (6)
 http://192.168.69.51:9981/stream/channelid/818767444?profile=pass
-#EXTINF:-1 tvg-id="b681743fdf80af1c05b3385aaffcb492" tvg-chno="123",CACCIA E PESCA (1)
-http://192.168.69.51:9981/stream/channelid/1064599990?profile=pass
-#EXTINF:-1 tvg-id="6cdf39a1df28bf2a4eb9d67301cda64b" tvg-chno="123",LALIGA SMARTBANK TV (6)
+#EXTINF:-1 tvg-id="d9faffd29a200b77fdf870963fb9e228" tvg-chno="81",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1990513070.png",name":"AMC HD (1)
+http://192.168.69.51:9981/stream/channelid/1392507609?profile=pass
+#EXTINF:-1 tvg-id="9efacb4bbbdaa6d8802b9d26585cea25" tvg-chno="82",ARTV (1)
+http://192.168.69.51:9981/stream/channelid/1271659166?profile=pass
+#EXTINF:-1 tvg-id="6cdf39a1df28bf2a4eb9d67301cda64b" tvg-chno="82",LALIGA SMARTBANK TV (6)
 http://192.168.69.51:9981/stream/channelid/557440876?profile=pass
-#EXTINF:-1 tvg-id="ba1433c780e4a3131da8616a9cf0c29b" tvg-chno="124",CANAL 11 HD (1)
-http://192.168.69.51:9981/stream/channelid/1194529978?profile=pass
-#EXTINF:-1 tvg-id="2f1c0ac7eb72edd5a3cb6e5f4f3cc0cc" tvg-chno="124",LALIGA SMARTBANK TV 1 (6)
+#EXTINF:-1 tvg-id="2f1c0ac7eb72edd5a3cb6e5f4f3cc0cc" tvg-chno="83",LALIGA SMARTBANK TV 1 (6)
 http://192.168.69.51:9981/stream/channelid/1191844911?profile=pass
-#EXTINF:-1 tvg-id="583b4e7f8231cce2d97049e2ff1e8a59" tvg-chno="125",CANAL 11 HD (BACKUP) (1)
-http://192.168.69.51:9981/stream/channelid/2135833432?profile=pass
-#EXTINF:-1 tvg-id="435cd32ea571c6a0593d92400124fb06" tvg-chno="125",LALIGA SMARTBANK TV 2 (6)
+#EXTINF:-1 tvg-id="1bb70739f7bcf0f2529baaa17ce93cc5" tvg-chno="83",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/200721217.png",name":"AXN HD (1)
+http://192.168.69.51:9981/stream/channelid/956806939?profile=pass
+#EXTINF:-1 tvg-id="435cd32ea571c6a0593d92400124fb06" tvg-chno="84",LALIGA SMARTBANK TV 2 (6)
 http://192.168.69.51:9981/stream/channelid/785603651?profile=pass
-#EXTINF:-1 tvg-id="dd3a714448d6675228afd8e6ca9c4c75" tvg-chno="126",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3370714805.png",name":"CANAL PANDA (1)
-http://192.168.69.51:9981/stream/channelid/1148271325?profile=pass
-#EXTINF:-1 tvg-id="9c17b285b60b12a0b3fcf5508987bbc0" tvg-chno="127",LALIGA TV BAR (6)
+#EXTINF:-1 tvg-id="267cb64afdad206572bc4268c53ad7c8" tvg-chno="85",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3667998787.png",name":"AXN WHITE HD (1)
+http://192.168.69.51:9981/stream/channelid/1253473318?profile=pass
+#EXTINF:-1 tvg-id="d687beaf3b4ac292352f69f6a8e333f3" tvg-chno="86",BABY TV (1)
+http://192.168.69.51:9981/stream/channelid/801015766?profile=pass
+#EXTINF:-1 tvg-id="9c17b285b60b12a0b3fcf5508987bbc0" tvg-chno="86",LALIGA TV BAR (6)
 http://192.168.69.51:9981/stream/channelid/95557532?profile=pass
-#EXTINF:-1 tvg-id="aeaa743292f8bdfada42254db3898860" tvg-chno="128",LANCELOT TV (6)
+#EXTINF:-1 tvg-id="aeaa743292f8bdfada42254db3898860" tvg-chno="87",LANCELOT TV (6)
 http://192.168.69.51:9981/stream/channelid/846506670?profile=pass
-#EXTINF:-1 tvg-id="ef99dc59dbec9f869d8735e551e69b39" tvg-chno="129",CASA & PESCA (1)
-http://192.168.69.51:9981/stream/channelid/1507629551?profile=pass
-#EXTINF:-1 tvg-id="12612df3c2b60d01e9862d805db56f59" tvg-chno="130",CBS REALITY (1)
-http://192.168.69.51:9981/stream/channelid/1932353810?profile=pass
-#EXTINF:-1 tvg-id="1e82a5db4653b149da23491597878b0c" tvg-chno="130",LOCOMOTION TV (6)
+#EXTINF:-1 tvg-id="28e58fc1d6d272908b65a27321285ae3" tvg-chno="87",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3861892624.png",name":"BENFICA TV (1)
+http://192.168.69.51:9981/stream/channelid/1099949352?profile=pass
+#EXTINF:-1 tvg-id="30515e100111ed2d194970c9f788a282" tvg-chno="88",BENFICA TV (BACKUP) (1)
+http://192.168.69.51:9981/stream/channelid/274616624?profile=pass
+#EXTINF:-1 tvg-id="dc8d01eb571c09dfd6695ad5619ef126" tvg-chno="89",BTV HD (1)
+http://192.168.69.51:9981/stream/channelid/1795263964?profile=pass
+#EXTINF:-1 tvg-id="1e82a5db4653b149da23491597878b0c" tvg-chno="89",LOCOMOTION TV (6)
 http://192.168.69.51:9981/stream/channelid/1537573406?profile=pass
-#EXTINF:-1 tvg-id="26610fe306994ed6ead8ed8ec77b71d8" tvg-chno="131",CINEMUNDO (1)
-http://192.168.69.51:9981/stream/channelid/1661952294?profile=pass
-#EXTINF:-1 tvg-id="b67ce2ac9408a12ae74bf34765273721" tvg-chno="131",LOGOS TV (6)
+#EXTINF:-1 tvg-id="b681743fdf80af1c05b3385aaffcb492" tvg-chno="90",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3796979675.png",name":"CACCIA E PESCA (1)
+http://192.168.69.51:9981/stream/channelid/1064599990?profile=pass
+#EXTINF:-1 tvg-id="b67ce2ac9408a12ae74bf34765273721" tvg-chno="90",LOGOS TV (6)
 http://192.168.69.51:9981/stream/channelid/753040566?profile=pass
-#EXTINF:-1 tvg-id="22912ba193743d3b11c3383986144d1a" tvg-chno="132",CM TV (1)
-http://192.168.69.51:9981/stream/channelid/556503330?profile=pass
-#EXTINF:-1 tvg-id="b28658af1aa6c094b9a387fcf700f3e4" tvg-chno="132",M+ ELLAS #V (6)
-http://192.168.69.51:9981/stream/channelid/794330802?profile=pass
-#EXTINF:-1 tvg-id="b11ec118d162ead62d08a20145e982d9" tvg-chno="133",CRIME INVISTIGATION (1)
-http://192.168.69.51:9981/stream/channelid/415309489?profile=pass
-#EXTINF:-1 tvg-id="f8ff9a091e3df1f2b7bcbc8fc3f744a5" tvg-chno="134",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/4144901300.png",name":"DISCOVERY CHANNEL HD (1)
-http://192.168.69.51:9981/stream/channelid/161153016?profile=pass
-#EXTINF:-1 tvg-id="91741c83c1c3c3f20e7285b0a933271c" tvg-chno="134",MAR TV (6)
+#EXTINF:-1 tvg-id="ba1433c780e4a3131da8616a9cf0c29b" tvg-chno="91",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1258977905.png",name":"CANAL 11 HD (1)
+http://192.168.69.51:9981/stream/channelid/1194529978?profile=pass
+#EXTINF:-1 tvg-id="91741c83c1c3c3f20e7285b0a933271c" tvg-chno="91",MAR TV (6)
 http://192.168.69.51:9981/stream/channelid/52196497?profile=pass
-#EXTINF:-1 tvg-id="1e01edf388407507fd86514568a196f0" tvg-chno="135",DISNEY CHANNEL (1)
-http://192.168.69.51:9981/stream/channelid/1944912158?profile=pass
-#EXTINF:-1 tvg-id="7efbf0a98f9e520e8fe688522e4dcc86" tvg-chno="135",MARBELLA TV (6)
+#EXTINF:-1 tvg-id="583b4e7f8231cce2d97049e2ff1e8a59" tvg-chno="92",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1753734820.png",name":"CANAL 11 HD (BACKUP) (1)
+http://192.168.69.51:9981/stream/channelid/2135833432?profile=pass
+#EXTINF:-1 tvg-id="7efbf0a98f9e520e8fe688522e4dcc86" tvg-chno="92",MARBELLA TV (6)
 http://192.168.69.51:9981/stream/channelid/703658878?profile=pass
-#EXTINF:-1 tvg-id="4e804913442957d0015e8e03d37a02d9" tvg-chno="136",DISNEY JUNIOR (1)
-http://192.168.69.51:9981/stream/channelid/323584078?profile=pass
-#EXTINF:-1 tvg-id="a68e4a0b3b5be7005e90884eeb9183d4" tvg-chno="137",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1184954657.png",name":"E! ENTERTAINMENT (1)
-http://192.168.69.51:9981/stream/channelid/189435558?profile=pass
-#EXTINF:-1 tvg-id="aef7349f15be898b335141cd2ba9bee3" tvg-chno="137",MEGA (6)
+#EXTINF:-1 tvg-id="dd3a714448d6675228afd8e6ca9c4c75" tvg-chno="93",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3370714805.png",name":"CANAL PANDA (1)
+http://192.168.69.51:9981/stream/channelid/1148271325?profile=pass
+#EXTINF:-1 tvg-id="aef7349f15be898b335141cd2ba9bee3" tvg-chno="94",MEGA (6)
 http://192.168.69.51:9981/stream/channelid/523564974?profile=pass
-#EXTINF:-1 tvg-id="ad32ec7291e27c730cb86e6198f7a9f0" tvg-chno="138",ELEVEN SPORT 1 (1)
-http://192.168.69.51:9981/stream/channelid/1928082093?profile=pass
-#EXTINF:-1 tvg-id="063a1b8d59729b5d64fb0e0144703159" tvg-chno="138",MELILLA TV (6)
-http://192.168.69.51:9981/stream/channelid/219888134?profile=pass
-#EXTINF:-1 tvg-id="8a930804eb9e05e1252bfbbe5cc6873d" tvg-chno="139",ELEVEN SPORT 1 (BACKUP) (1)
-http://192.168.69.51:9981/stream/channelid/67670922?profile=pass
-#EXTINF:-1 tvg-id="d62dae1d90020c17ff281225e29dfb64" tvg-chno="139",MICROVISION 10 (6)
+#EXTINF:-1 tvg-id="d62dae1d90020c17ff281225e29dfb64" tvg-chno="95",MICROVISION 10 (6)
 http://192.168.69.51:9981/stream/channelid/497954262?profile=pass
-#EXTINF:-1 tvg-id="aa384772549ddc1ebe6b3f16e40d8843" tvg-chno="140",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2547694483.jpeg",name":"ELEVEN SPORT 2 (1)
-http://192.168.69.51:9981/stream/channelid/1917270186?profile=pass
-#EXTINF:-1 tvg-id="e82a357159f03d1c49f2dd283faf2cd1" tvg-chno="140",MIRAME TV (6)
-http://192.168.69.51:9981/stream/channelid/1899309800?profile=pass
-#EXTINF:-1 tvg-id="ce5fa12910f8411646f2af0099a0ee6a" tvg-chno="141",ELEVEN SPORT 2 (BACKUP) (1)
-http://192.168.69.51:9981/stream/channelid/698441678?profile=pass
-#EXTINF:-1 tvg-id="8a56a8b62f6cabdb3b6ccde188e56b83" tvg-chno="142",ELEVEN SPORT 3 (1)
-http://192.168.69.51:9981/stream/channelid/917001866?profile=pass
-#EXTINF:-1 tvg-id="91c930eb36510c6613f4b33c6d00d8cb" tvg-chno="143",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1362312699.png",name":"ELEVEN SPORT 4 HD (1)
-http://192.168.69.51:9981/stream/channelid/1798359441?profile=pass
-#EXTINF:-1 tvg-id="3f1ebf8efa9fb18d8609d8c448593534" tvg-chno="143",MTV ESPANA (6)
-http://192.168.69.51:9981/stream/channelid/247406143?profile=pass
-#EXTINF:-1 tvg-id="511f13d389e4c467c259c022b38cf212" tvg-chno="144",ELEVEN SPORT 5 HD (1)
-http://192.168.69.51:9981/stream/channelid/1393762129?profile=pass
-#EXTINF:-1 tvg-id="03168ee1a91bf163bb79809762d88dd1" tvg-chno="144",MULTIDEPORTE (6)
-http://192.168.69.51:9981/stream/channelid/1636701699?profile=pass
-#EXTINF:-1 tvg-id="5d57b533d78bc17b9bb26041ea5956fa" tvg-chno="145",ELEVEN SPORT 6 (1)
-http://192.168.69.51:9981/stream/channelid/867522397?profile=pass
-#EXTINF:-1 tvg-id="511f071aab67adc68d8373fe0d843811" tvg-chno="145",NAT GEO (6)
+#EXTINF:-1 tvg-id="ef99dc59dbec9f869d8735e551e69b39" tvg-chno="96",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/821412890.png",name":"CASA & PESCA (1)
+http://192.168.69.51:9981/stream/channelid/1507629551?profile=pass
+#EXTINF:-1 tvg-id="511f071aab67adc68d8373fe0d843811" tvg-chno="96",NAT GEO (6)
 http://192.168.69.51:9981/stream/channelid/436674385?profile=pass
-#EXTINF:-1 tvg-id="2e986d8f24472f09ed597f416a33c066" tvg-chno="146",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/297551910.png",name":"ELEVEN SPORTS 1 HD (1)
-http://192.168.69.51:9981/stream/channelid/258840622?profile=pass
-#EXTINF:-1 tvg-id="fa23d84eb31d231d09ac094908273e8f" tvg-chno="146",NAT GEO WILD (6)
-http://192.168.69.51:9981/stream/channelid/1322787834?profile=pass
-#EXTINF:-1 tvg-id="c31e463d8a9803536b813940c78db98e" tvg-chno="147",ELEVEN SPORTS 1 HD (BACKUP) (1)
-http://192.168.69.51:9981/stream/channelid/1028005571?profile=pass
-#EXTINF:-1 tvg-id="5c013245d315a802d8678513c8f0487b" tvg-chno="148",ELEVEN SPORTS 2 HD (1)
-http://192.168.69.51:9981/stream/channelid/1160905052?profile=pass
-#EXTINF:-1 tvg-id="e637ce5d07d3064bc7ee250e8e9584a5" tvg-chno="148",NEOX (6)
-http://192.168.69.51:9981/stream/channelid/1573795814?profile=pass
-#EXTINF:-1 tvg-id="f541456d0f7fabd7f28490f955da3571" tvg-chno="149",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/74886292.png",name":"ELEVEN SPORTS 2 HD (BACKUP) (1)
-http://192.168.69.51:9981/stream/channelid/1833255413?profile=pass
-#EXTINF:-1 tvg-id="d8666428a44186cddd249150d82fbf04" tvg-chno="149",NICK JUNIOR (6)
-http://192.168.69.51:9981/stream/channelid/677668568?profile=pass
-#EXTINF:-1 tvg-id="7784e8ec1ca9968f62875185ebc71d47" tvg-chno="150",ELEVEN SPORTS 3 HD (1)
-http://192.168.69.51:9981/stream/channelid/1827177591?profile=pass
-#EXTINF:-1 tvg-id="e1be44a473f1ade84c94dab57b780373" tvg-chno="150",NICKELODEON (6)
+#EXTINF:-1 tvg-id="12612df3c2b60d01e9862d805db56f59" tvg-chno="97",CBS REALITY (1)
+http://192.168.69.51:9981/stream/channelid/1932353810?profile=pass
+#EXTINF:-1 tvg-id="e1be44a473f1ade84c94dab57b780373" tvg-chno="97",NICKELODEON (6)
 http://192.168.69.51:9981/stream/channelid/608485089?profile=pass
-#EXTINF:-1 tvg-id="c7e20927f5c1e7f7ff6e080677782471" tvg-chno="151",ELEVEN SPORTS 3 HD (BACKUP) (1)
-http://192.168.69.51:9981/stream/channelid/654959303?profile=pass
-#EXTINF:-1 tvg-id="2c837c1ab6e76f2c6407ad1117272de8" tvg-chno="151",NOVA (6)
+#EXTINF:-1 tvg-id="26610fe306994ed6ead8ed8ec77b71d8" tvg-chno="98",CINEMUNDO (1)
+http://192.168.69.51:9981/stream/channelid/1661952294?profile=pass
+#EXTINF:-1 tvg-id="2c837c1ab6e76f2c6407ad1117272de8" tvg-chno="98",NOVA (6)
 http://192.168.69.51:9981/stream/channelid/444367660?profile=pass
-#EXTINF:-1 tvg-id="adaf7cb51d853cce9974e0f01fb12b28" tvg-chno="152",ELEVEN SPORTS 4 HD (1)
-http://192.168.69.51:9981/stream/channelid/897363885?profile=pass
-#EXTINF:-1 tvg-id="120af4cb916b9b36a916ebf88f954523" tvg-chno="153",ELEVEN SPORTS 4 HD (BACKUP) (1)
-http://192.168.69.51:9981/stream/channelid/1274284562?profile=pass
-#EXTINF:-1 tvg-id="c18a58983c7150a45b45e267bfd8256a" tvg-chno="154",ELEVEN SPORTS 5 FHD (1)
-http://192.168.69.51:9981/stream/channelid/408455873?profile=pass
-#EXTINF:-1 tvg-id="d3fff6d151bfaece775217c110d58e46" tvg-chno="154",ONDA ALGECIRAS TV (6)
+#EXTINF:-1 tvg-id="22912ba193743d3b11c3383986144d1a" tvg-chno="99",CM TV (1)
+http://192.168.69.51:9981/stream/channelid/556503330?profile=pass
+#EXTINF:-1 tvg-id="b11ec118d162ead62d08a20145e982d9" tvg-chno="100",CRIME INVISTIGATION (1)
+http://192.168.69.51:9981/stream/channelid/415309489?profile=pass
+#EXTINF:-1 tvg-id="f8ff9a091e3df1f2b7bcbc8fc3f744a5" tvg-chno="101",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/4144901300.png",name":"DISCOVERY CHANNEL HD (1)
+http://192.168.69.51:9981/stream/channelid/161153016?profile=pass
+#EXTINF:-1 tvg-id="d3fff6d151bfaece775217c110d58e46" tvg-chno="101",ONDA ALGECIRAS TV (6)
 http://192.168.69.51:9981/stream/channelid/1375141843?profile=pass
-#EXTINF:-1 tvg-id="e6d7156204467e8cc17d3af3bf92da25" tvg-chno="155",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2515945180.png",name":"ELEVEN SPORTS 5 HD (1)
-http://192.168.69.51:9981/stream/channelid/1645598694?profile=pass
-#EXTINF:-1 tvg-id="832137fc8ad94eebc1debfc764d3e889" tvg-chno="155",ONDA CADIZ (6)
+#EXTINF:-1 tvg-id="1e01edf388407507fd86514568a196f0" tvg-chno="102",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3743661096.png",name":"DISNEY CHANNEL (1)
+http://192.168.69.51:9981/stream/channelid/1944912158?profile=pass
+#EXTINF:-1 tvg-id="832137fc8ad94eebc1debfc764d3e889" tvg-chno="102",ONDA CADIZ (6)
 http://192.168.69.51:9981/stream/channelid/2083987843?profile=pass
-#EXTINF:-1 tvg-id="26fb6c8e6a48987b07bbd3d4fa1a42c9" tvg-chno="156",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/460931391.png",name":"ELEVEN SPORTS 6 HD (1)
-http://192.168.69.51:9981/stream/channelid/242023206?profile=pass
-#EXTINF:-1 tvg-id="59e19aa4f31faac3c1c2e03487bcdd67" tvg-chno="156",PEQUERADIO (6)
+#EXTINF:-1 tvg-id="4e804913442957d0015e8e03d37a02d9" tvg-chno="103",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/523733271.png",name":"DISNEY JUNIOR (1)
+http://192.168.69.51:9981/stream/channelid/323584078?profile=pass
+#EXTINF:-1 tvg-id="59e19aa4f31faac3c1c2e03487bcdd67" tvg-chno="103",PEQUERADIO (6)
 http://192.168.69.51:9981/stream/channelid/614130009?profile=pass
-#EXTINF:-1 tvg-id="f5b2aead763e5fd3ceb69af5a959f6fa" tvg-chno="157",ELEVEN SPORTS 6 HD (BACKUP) (1)
-http://192.168.69.51:9981/stream/channelid/766423797?profile=pass
-#EXTINF:-1 tvg-id="b9e80555d9ef25e180f8780fb4e0db8d" tvg-chno="157",POPULAR TV CANTABRIA (6)
+#EXTINF:-1 tvg-id="a68e4a0b3b5be7005e90884eeb9183d4" tvg-chno="104",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1184954657.png",name":"E! ENTERTAINMENT (1)
+http://192.168.69.51:9981/stream/channelid/189435558?profile=pass
+#EXTINF:-1 tvg-id="b9e80555d9ef25e180f8780fb4e0db8d" tvg-chno="104",POPULAR TV CANTABRIA (6)
 http://192.168.69.51:9981/stream/channelid/1426450617?profile=pass
-#EXTINF:-1 tvg-id="c95d4fea0fdfdd08b5ce6c49012a1d28" tvg-chno="158",EUROSPORT 1 (1)
-http://192.168.69.51:9981/stream/channelid/1783586249?profile=pass
-#EXTINF:-1 tvg-id="8261fc068993750727855f281ef3f70c" tvg-chno="159",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3714923718.png",name":"EUROSPORT 1 HD (1)
-http://192.168.69.51:9981/stream/channelid/117203330?profile=pass
-#EXTINF:-1 tvg-id="56c27dcd36a5dc54de94590ee2ec1d8b" tvg-chno="159",PUNT 3 VALL UIXO (6)
+#EXTINF:-1 tvg-id="ad32ec7291e27c730cb86e6198f7a9f0" tvg-chno="105",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3497705795.jpeg",name":"ELEVEN SPORT 1 (1)
+http://192.168.69.51:9981/stream/channelid/1928082093?profile=pass
+#EXTINF:-1 tvg-id="56c27dcd36a5dc54de94590ee2ec1d8b" tvg-chno="105",PUNT 3 VALL UIXO (6)
 http://192.168.69.51:9981/stream/channelid/1300087382?profile=pass
-#EXTINF:-1 tvg-id="46afa624c7b3ee7c483e005733ad8f15" tvg-chno="160",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/4130518817.png",name":"EUROSPORT 2 (1)
-http://192.168.69.51:9981/stream/channelid/614903622?profile=pass
-#EXTINF:-1 tvg-id="d6d20546241d83da5b7dbed23f5bfe65" tvg-chno="160",RAKUTEN 1 (6)
+#EXTINF:-1 tvg-id="8a930804eb9e05e1252bfbbe5cc6873d" tvg-chno="106",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2014694058.png",name":"ELEVEN SPORT 1 (BACKUP) (1)
+http://192.168.69.51:9981/stream/channelid/67670922?profile=pass
+#EXTINF:-1 tvg-id="d6d20546241d83da5b7dbed23f5bfe65" tvg-chno="106",RAKUTEN 1 (6)
 http://192.168.69.51:9981/stream/channelid/1174786774?profile=pass
-#EXTINF:-1 tvg-id="9807d9e12692a35bc244e5a3b83b6f0f" tvg-chno="161",EUROSPORT 2 (BACKUP) (1)
-http://192.168.69.51:9981/stream/channelid/1641613208?profile=pass
-#EXTINF:-1 tvg-id="a66f39d1676c2cb28986d02545e2066a" tvg-chno="161",RAKUTEN 2 (6)
+#EXTINF:-1 tvg-id="aa384772549ddc1ebe6b3f16e40d8843" tvg-chno="107",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2547694483.jpeg",name":"ELEVEN SPORT 2 (1)
+http://192.168.69.51:9981/stream/channelid/1917270186?profile=pass
+#EXTINF:-1 tvg-id="a66f39d1676c2cb28986d02545e2066a" tvg-chno="107",RAKUTEN 2 (6)
 http://192.168.69.51:9981/stream/channelid/1362718630?profile=pass
-#EXTINF:-1 tvg-id="dd43367fdb7d25642382876126f063a0" tvg-chno="162",FOX COMEDY HD (1)
-http://192.168.69.51:9981/stream/channelid/2134262749?profile=pass
-#EXTINF:-1 tvg-id="641eb119f64728191b8c1b74deb5a94a" tvg-chno="162",RAKUTEN 3 (6)
+#EXTINF:-1 tvg-id="ce5fa12910f8411646f2af0099a0ee6a" tvg-chno="108",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/74772337.png",name":"ELEVEN SPORT 2 (BACKUP) (1)
+http://192.168.69.51:9981/stream/channelid/698441678?profile=pass
+#EXTINF:-1 tvg-id="641eb119f64728191b8c1b74deb5a94a" tvg-chno="108",RAKUTEN 3 (6)
 http://192.168.69.51:9981/stream/channelid/431038052?profile=pass
-#EXTINF:-1 tvg-id="5fd86b2696893ae6b1a1f74c30c35ac2" tvg-chno="163",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/628070751.png",name":"FOX CRIME HD (1)
-http://192.168.69.51:9981/stream/channelid/644601951?profile=pass
-#EXTINF:-1 tvg-id="1842f56e72ff8dfe1c8ef9854f152609" tvg-chno="163",RAKUTEN 6 (6)
+#EXTINF:-1 tvg-id="8a56a8b62f6cabdb3b6ccde188e56b83" tvg-chno="109",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2864353827.png",name":"ELEVEN SPORT 3 (1)
+http://192.168.69.51:9981/stream/channelid/917001866?profile=pass
+#EXTINF:-1 tvg-id="1842f56e72ff8dfe1c8ef9854f152609" tvg-chno="109",RAKUTEN 6 (6)
 http://192.168.69.51:9981/stream/channelid/1861567000?profile=pass
-#EXTINF:-1 tvg-id="eff3199ccfe3849559610598184d32a0" tvg-chno="164",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2606747436.png",name":"FOX HD (1)
-http://192.168.69.51:9981/stream/channelid/471462895?profile=pass
-#EXTINF:-1 tvg-id="f5ed191c0035add05908b1d99dd9c90e" tvg-chno="164",RAKUTEN 7 (6)
+#EXTINF:-1 tvg-id="91c930eb36510c6613f4b33c6d00d8cb" tvg-chno="110",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1362312699.png",name":"ELEVEN SPORT 4 HD (1)
+http://192.168.69.51:9981/stream/channelid/1798359441?profile=pass
+#EXTINF:-1 tvg-id="f5ed191c0035add05908b1d99dd9c90e" tvg-chno="110",RAKUTEN 7 (6)
 http://192.168.69.51:9981/stream/channelid/471461365?profile=pass
-#EXTINF:-1 tvg-id="becd7dd6c4aa38b2caa9c98be427e5c0" tvg-chno="165",FOX LIFE HD (1)
-http://192.168.69.51:9981/stream/channelid/1451085246?profile=pass
-#EXTINF:-1 tvg-id="25f22920b2e2ff22790e46c56a5118bc" tvg-chno="165",RAKUTEN FAMILY (6)
+#EXTINF:-1 tvg-id="511f13d389e4c467c259c022b38cf212" tvg-chno="111",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2644065637.png",name":"ELEVEN SPORT 5 HD (1)
+http://192.168.69.51:9981/stream/channelid/1393762129?profile=pass
+#EXTINF:-1 tvg-id="25f22920b2e2ff22790e46c56a5118bc" tvg-chno="111",RAKUTEN FAMILY (6)
 http://192.168.69.51:9981/stream/channelid/539619877?profile=pass
-#EXTINF:-1 tvg-id="059b0a3f86948cb5566619ea83bd5100" tvg-chno="166",FOX MOVIES HD (1)
-http://192.168.69.51:9981/stream/channelid/1057659653?profile=pass
-#EXTINF:-1 tvg-id="60fbbccd8add6c6fe8cca9033353b7f2" tvg-chno="166",REAL MADRID TV (6)
-http://192.168.69.51:9981/stream/channelid/1304230752?profile=pass
-#EXTINF:-1 tvg-id="e987bf57a8a716e827821fb4c6ddbfa4" tvg-chno="167",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3522263041.png",name":"FUEL TV (1)
-http://192.168.69.51:9981/stream/channelid/1472169961?profile=pass
-#EXTINF:-1 tvg-id="2379e07e372b2436e4b465cf24024f79" tvg-chno="167",RT ESPA\u00d1OL (6)
+#EXTINF:-1 tvg-id="5d57b533d78bc17b9bb26041ea5956fa" tvg-chno="112",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1650072915.png",name":"ELEVEN SPORT 6 (1)
+http://192.168.69.51:9981/stream/channelid/867522397?profile=pass
+#EXTINF:-1 tvg-id="2e986d8f24472f09ed597f416a33c066" tvg-chno="113",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/297551910.png",name":"ELEVEN SPORTS 1 HD (1)
+http://192.168.69.51:9981/stream/channelid/258840622?profile=pass
+#EXTINF:-1 tvg-id="2379e07e372b2436e4b465cf24024f79" tvg-chno="113",RT ESPA\u00d1OL (6)
 http://192.168.69.51:9981/stream/channelid/2128640291?profile=pass
-#EXTINF:-1 tvg-id="9e01532d678760b427f6469a2977525d" tvg-chno="168",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/8732938.png",name":"FUEL TV (BACKUP) (1)
-http://192.168.69.51:9981/stream/channelid/760414622?profile=pass
-#EXTINF:-1 tvg-id="97c32356696a7cfb03e89fa90297e417" tvg-chno="168",RTV VIDA (6)
+#EXTINF:-1 tvg-id="c31e463d8a9803536b813940c78db98e" tvg-chno="114",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1475147536.png",name":"ELEVEN SPORTS 1 HD (BACKUP) (1)
+http://192.168.69.51:9981/stream/channelid/1028005571?profile=pass
+#EXTINF:-1 tvg-id="97c32356696a7cfb03e89fa90297e417" tvg-chno="114",RTV VIDA (6)
 http://192.168.69.51:9981/stream/channelid/1445184407?profile=pass
-#EXTINF:-1 tvg-id="97fb2fc9001453dfc397f64471fd2f95" tvg-chno="169",HISTORIA (1)
-http://192.168.69.51:9981/stream/channelid/1227881367?profile=pass
-#EXTINF:-1 tvg-id="343aa98bd4ad88c153214bc4eab17870" tvg-chno="170",HOLLYWOOD HD (1)
-http://192.168.69.51:9981/stream/channelid/195639860?profile=pass
-#EXTINF:-1 tvg-id="c263ea86ba1eb9bf91c045a5fb212a7c" tvg-chno="171",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2970139228.png",name":"JIM JAM (1)
-http://192.168.69.51:9981/stream/channelid/116024258?profile=pass
-#EXTINF:-1 tvg-id="e7da31fd9d83221db77e8c1162c20380" tvg-chno="172",SOLIDARIA TV (6)
+#EXTINF:-1 tvg-id="5c013245d315a802d8678513c8f0487b" tvg-chno="115",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2670940101.png",name":"ELEVEN SPORTS 2 HD (1)
+http://192.168.69.51:9981/stream/channelid/1160905052?profile=pass
+#EXTINF:-1 tvg-id="f541456d0f7fabd7f28490f955da3571" tvg-chno="116",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/74886292.png",name":"ELEVEN SPORTS 2 HD (BACKUP) (1)
+http://192.168.69.51:9981/stream/channelid/1833255413?profile=pass
+#EXTINF:-1 tvg-id="7784e8ec1ca9968f62875185ebc71d47" tvg-chno="117",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1402556251.png",name":"ELEVEN SPORTS 3 HD (1)
+http://192.168.69.51:9981/stream/channelid/1827177591?profile=pass
+#EXTINF:-1 tvg-id="e7da31fd9d83221db77e8c1162c20380" tvg-chno="117",SOLIDARIA TV (6)
 http://192.168.69.51:9981/stream/channelid/2100419303?profile=pass
-#EXTINF:-1 tvg-id="f809aed9c0fa92ebc9138743fe688e54" tvg-chno="173",SOMOS (6)
-http://192.168.69.51:9981/stream/channelid/1504578040?profile=pass
-#EXTINF:-1 tvg-id="049dc845bb50b4f124c9aa7b91adc6c2" tvg-chno="174",MCM POP (1)
-http://192.168.69.51:9981/stream/channelid/1170775300?profile=pass
-#EXTINF:-1 tvg-id="0f8c955b5e134264a9282cf28741a7c8" tvg-chno="175",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3116199641.png",name":"MOTO GP HD (1)
-http://192.168.69.51:9981/stream/channelid/1536527375?profile=pass
-#EXTINF:-1 tvg-id="7c403543c8b08215e94bf790cde59ea6" tvg-chno="176",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2641549648.png",name":"MOTORVISION (1)
-http://192.168.69.51:9981/stream/channelid/1127563388?profile=pass
-#EXTINF:-1 tvg-id="15d7051599e32112bf24a58471ce7e38" tvg-chno="176",SUNDANCE TV (6)
+#EXTINF:-1 tvg-id="c7e20927f5c1e7f7ff6e080677782471" tvg-chno="118",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2211473367.png",name":"ELEVEN SPORTS 3 HD (BACKUP) (1)
+http://192.168.69.51:9981/stream/channelid/654959303?profile=pass
+#EXTINF:-1 tvg-id="adaf7cb51d853cce9974e0f01fb12b28" tvg-chno="119",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1499219522.png",name":"ELEVEN SPORTS 4 HD (1)
+http://192.168.69.51:9981/stream/channelid/897363885?profile=pass
+#EXTINF:-1 tvg-id="120af4cb916b9b36a916ebf88f954523" tvg-chno="120",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2739018652.png",name":"ELEVEN SPORTS 4 HD (BACKUP) (1)
+http://192.168.69.51:9981/stream/channelid/1274284562?profile=pass
+#EXTINF:-1 tvg-id="15d7051599e32112bf24a58471ce7e38" tvg-chno="120",SUNDANCE TV (6)
 http://192.168.69.51:9981/stream/channelid/352704277?profile=pass
-#EXTINF:-1 tvg-id="a24038618a6e9d79aec7a4ed970dd54d" tvg-chno="177",MOTORVISION (BACKUP) (1)
-http://192.168.69.51:9981/stream/channelid/1631076514?profile=pass
-#EXTINF:-1 tvg-id="60dd579a765f75a81adf37b71bdba353" tvg-chno="177",SYFY (6)
-http://192.168.69.51:9981/stream/channelid/441965920?profile=pass
-#EXTINF:-1 tvg-id="ce3e850e85ecdebb5ed5fd09adf05c2a" tvg-chno="178",MTV PORTUGAL (1)
-http://192.168.69.51:9981/stream/channelid/243613390?profile=pass
-#EXTINF:-1 tvg-id="a4fafeb1e8d93a5b3e438d0a97607c7d" tvg-chno="178",TCM (6)
+#EXTINF:-1 tvg-id="c18a58983c7150a45b45e267bfd8256a" tvg-chno="121",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/5725626.png",name":"ELEVEN SPORTS 5 FHD (1)
+http://192.168.69.51:9981/stream/channelid/408455873?profile=pass
+#EXTINF:-1 tvg-id="a4fafeb1e8d93a5b3e438d0a97607c7d" tvg-chno="121",TCM (6)
 http://192.168.69.51:9981/stream/channelid/838793892?profile=pass
-#EXTINF:-1 tvg-id="996727b951e73cfdd2d372d7dc61e348" tvg-chno="179",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2405138396.png",name":"NAT GEO WILD HD (1)
-http://192.168.69.51:9981/stream/channelid/958883737?profile=pass
-#EXTINF:-1 tvg-id="56fce10cc88c18cad81041695b498a51" tvg-chno="179",TELE SAFOR (6)
+#EXTINF:-1 tvg-id="e6d7156204467e8cc17d3af3bf92da25" tvg-chno="122",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2515945180.png",name":"ELEVEN SPORTS 5 HD (1)
+http://192.168.69.51:9981/stream/channelid/1645598694?profile=pass
+#EXTINF:-1 tvg-id="56fce10cc88c18cad81041695b498a51" tvg-chno="122",TELE SAFOR (6)
 http://192.168.69.51:9981/stream/channelid/216136790?profile=pass
-#EXTINF:-1 tvg-id="2df30ca3d0bf2959e9e0a1d913538f77" tvg-chno="180",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1745476141.png",name":"NATIONAL GEOGRAPHIC (1)
-http://192.168.69.51:9981/stream/channelid/588051245?profile=pass
-#EXTINF:-1 tvg-id="8ace5f73bd50d4a6644501308c7b262d" tvg-chno="180",TELECINCO (6)
-http://192.168.69.51:9981/stream/channelid/1935658634?profile=pass
-#EXTINF:-1 tvg-id="0dd6919f06140b7558c0d74b180a5543" tvg-chno="181",NICK JR. (1)
-http://192.168.69.51:9981/stream/channelid/529651213?profile=pass
-#EXTINF:-1 tvg-id="bfff25992e38c6c827fba26789f7e10a" tvg-chno="181",TELEDEPORTE (6)
+#EXTINF:-1 tvg-id="26fb6c8e6a48987b07bbd3d4fa1a42c9" tvg-chno="123",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/460931391.png",name":"ELEVEN SPORTS 6 HD (1)
+http://192.168.69.51:9981/stream/channelid/242023206?profile=pass
+#EXTINF:-1 tvg-id="bfff25992e38c6c827fba26789f7e10a" tvg-chno="123",TELEDEPORTE (6)
 http://192.168.69.51:9981/stream/channelid/421920703?profile=pass
-#EXTINF:-1 tvg-id="f5ffc0792c5219b6e341d29d3c2d679b" tvg-chno="182",NICKELODEON (1)
-http://192.168.69.51:9981/stream/channelid/2042691573?profile=pass
-#EXTINF:-1 tvg-id="4040eafcd46da470356fc96a3ec985f0" tvg-chno="182",TELEONUBA (6)
+#EXTINF:-1 tvg-id="f5b2aead763e5fd3ceb69af5a959f6fa" tvg-chno="124",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2004781915.png",name":"ELEVEN SPORTS 6 HD (BACKUP) (1)
+http://192.168.69.51:9981/stream/channelid/766423797?profile=pass
+#EXTINF:-1 tvg-id="4040eafcd46da470356fc96a3ec985f0" tvg-chno="124",TELEONUBA (6)
 http://192.168.69.51:9981/stream/channelid/2095726656?profile=pass
-#EXTINF:-1 tvg-id="ae1405ebb8e5208668a6a41dac8fa1a7" tvg-chno="183",NOS STUDIOS (1)
-http://192.168.69.51:9981/stream/channelid/1795495086?profile=pass
-#EXTINF:-1 tvg-id="e4a39c9db117118348660d9439fcac64" tvg-chno="183",TELERIBERA (6)
+#EXTINF:-1 tvg-id="c95d4fea0fdfdd08b5ce6c49012a1d28" tvg-chno="125",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2979188209.png",name":"EUROSPORT 1 (1)
+http://192.168.69.51:9981/stream/channelid/1783586249?profile=pass
+#EXTINF:-1 tvg-id="e4a39c9db117118348660d9439fcac64" tvg-chno="125",TELERIBERA (6)
 http://192.168.69.51:9981/stream/channelid/496804836?profile=pass
-#EXTINF:-1 tvg-id="d7746985aba9528ccaa75f7c382d79b5" tvg-chno="184",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2634956104.png",name":"ODISSEIA (1)
-http://192.168.69.51:9981/stream/channelid/90797271?profile=pass
-#EXTINF:-1 tvg-id="995b56ebab3ebf44d3a62c8cb6344ac9" tvg-chno="185",TEN (6)
+#EXTINF:-1 tvg-id="8261fc068993750727855f281ef3f70c" tvg-chno="126",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3714923718.png",name":"EUROSPORT 1 HD (1)
+http://192.168.69.51:9981/stream/channelid/117203330?profile=pass
+#EXTINF:-1 tvg-id="46afa624c7b3ee7c483e005733ad8f15" tvg-chno="127",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/4130518817.png",name":"EUROSPORT 2 (1)
+http://192.168.69.51:9981/stream/channelid/614903622?profile=pass
+#EXTINF:-1 tvg-id="995b56ebab3ebf44d3a62c8cb6344ac9" tvg-chno="127",TEN (6)
 http://192.168.69.51:9981/stream/channelid/1800821657?profile=pass
-#EXTINF:-1 tvg-id="a05d57b5c6ec21186c89486dc6e43a71" tvg-chno="186",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2985210323.png",name":"PFC (1)
-http://192.168.69.51:9981/stream/channelid/894918048?profile=pass
-#EXTINF:-1 tvg-id="ec00c2b304afd6df0c7d84268dd38863" tvg-chno="186",TOROS TV (6)
+#EXTINF:-1 tvg-id="9807d9e12692a35bc244e5a3b83b6f0f" tvg-chno="128",EUROSPORT 2 (BACKUP) (1)
+http://192.168.69.51:9981/stream/channelid/1641613208?profile=pass
+#EXTINF:-1 tvg-id="dd43367fdb7d25642382876126f063a0" tvg-chno="129",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/166538940.png",name":"FOX COMEDY HD (1)
+http://192.168.69.51:9981/stream/channelid/2134262749?profile=pass
+#EXTINF:-1 tvg-id="ec00c2b304afd6df0c7d84268dd38863" tvg-chno="129",TOROS TV (6)
 http://192.168.69.51:9981/stream/channelid/868352236?profile=pass
-#EXTINF:-1 tvg-id="6a7dab33b88814a7449e0d5eb7244ffa" tvg-chno="187",PFC (BACKUP) (1)
-http://192.168.69.51:9981/stream/channelid/866876778?profile=pass
-#EXTINF:-1 tvg-id="0a4b3e158cac8421022a6b4be34b8db4" tvg-chno="187",TRECE TV (6)
-http://192.168.69.51:9981/stream/channelid/356403978?profile=pass
-#EXTINF:-1 tvg-id="32bad434370ade8cfc4e4cf2f7443443" tvg-chno="188",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1218014841.png",name":"PORTO CANAL (1)
-http://192.168.69.51:9981/stream/channelid/886356530?profile=pass
-#EXTINF:-1 tvg-id="b93cc52e4affb28484f34b2d0f3d2e07" tvg-chno="188",TV 4 LA VALL (6)
+#EXTINF:-1 tvg-id="5fd86b2696893ae6b1a1f74c30c35ac2" tvg-chno="130",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/628070751.png",name":"FOX CRIME HD (1)
+http://192.168.69.51:9981/stream/channelid/644601951?profile=pass
+#EXTINF:-1 tvg-id="b93cc52e4affb28484f34b2d0f3d2e07" tvg-chno="130",TV 4 LA VALL (6)
 http://192.168.69.51:9981/stream/channelid/784678073?profile=pass
-#EXTINF:-1 tvg-id="324c709a135559abb41a93fc00bcb631" tvg-chno="189",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1931107682.png",name":"PORTO CANAL (BACKUP) (1)
-http://192.168.69.51:9981/stream/channelid/443567154?profile=pass
-#EXTINF:-1 tvg-id="38c77e4bb6204d6be961f0a8e2d5d6f9" tvg-chno="189",TV VEGA BAJA (6)
+#EXTINF:-1 tvg-id="eff3199ccfe3849559610598184d32a0" tvg-chno="131",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2606747436.png",name":"FOX HD (1)
+http://192.168.69.51:9981/stream/channelid/471462895?profile=pass
+#EXTINF:-1 tvg-id="38c77e4bb6204d6be961f0a8e2d5d6f9" tvg-chno="131",TV VEGA BAJA (6)
 http://192.168.69.51:9981/stream/channelid/1266599736?profile=pass
-#EXTINF:-1 tvg-id="6f0206b888b59cd55b21e975a92d70c1" tvg-chno="190",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/4213627122.png",name":"RTP 1 HD (1)
-http://192.168.69.51:9981/stream/channelid/939917935?profile=pass
-#EXTINF:-1 tvg-id="bc58991ae38e96bb604b7f500b5abfe8" tvg-chno="190",TV3 CATALUNYA (6)
+#EXTINF:-1 tvg-id="becd7dd6c4aa38b2caa9c98be427e5c0" tvg-chno="132",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2234111702.png",name":"FOX LIFE HD (1)
+http://192.168.69.51:9981/stream/channelid/1451085246?profile=pass
+#EXTINF:-1 tvg-id="bc58991ae38e96bb604b7f500b5abfe8" tvg-chno="132",TV3 CATALUNYA (6)
 http://192.168.69.51:9981/stream/channelid/446257340?profile=pass
-#EXTINF:-1 tvg-id="aa5d3ae11a41aea41f7c31d0d1d68224" tvg-chno="191",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1445749860.png",name":"RTP 2 (1)
-http://192.168.69.51:9981/stream/channelid/1631215018?profile=pass
-#EXTINF:-1 tvg-id="c0733f06c7b02744b4436df493f5b5ad" tvg-chno="191",TV5 LIMARES (6)
+#EXTINF:-1 tvg-id="059b0a3f86948cb5566619ea83bd5100" tvg-chno="133",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3797649798.png",name":"FOX MOVIES HD (1)
+http://192.168.69.51:9981/stream/channelid/1057659653?profile=pass
+#EXTINF:-1 tvg-id="c0733f06c7b02744b4436df493f5b5ad" tvg-chno="133",TV5 LIMARES (6)
 http://192.168.69.51:9981/stream/channelid/104821696?profile=pass
-#EXTINF:-1 tvg-id="171d014de862901f29f5972fa12fc87d" tvg-chno="192",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1800162772.png",name":"RTP 3 (1)
-http://192.168.69.51:9981/stream/channelid/1291918615?profile=pass
-#EXTINF:-1 tvg-id="5734b89f0d7756dbc4e9b5b503a5e4dd" tvg-chno="192",TVE INTERNACIONAL AM\u00c9RICA 1 (6)
+#EXTINF:-1 tvg-id="e987bf57a8a716e827821fb4c6ddbfa4" tvg-chno="134",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3522263041.png",name":"FUEL TV (1)
+http://192.168.69.51:9981/stream/channelid/1472169961?profile=pass
+#EXTINF:-1 tvg-id="5734b89f0d7756dbc4e9b5b503a5e4dd" tvg-chno="134",TVE INTERNACIONAL AM\u00c9RICA 1 (6)
 http://192.168.69.51:9981/stream/channelid/532165719?profile=pass
-#EXTINF:-1 tvg-id="fba4a7c2e87ec3a8e9201cf2b004a183" tvg-chno="193",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3380879920.png",name":"RTP ACORES (1)
-http://192.168.69.51:9981/stream/channelid/1118283003?profile=pass
-#EXTINF:-1 tvg-id="5bbaa2e24ac10110a2d975b18e93303d" tvg-chno="193",TVE INTERNACIONAL EUROPA (6)
+#EXTINF:-1 tvg-id="9e01532d678760b427f6469a2977525d" tvg-chno="135",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/8732938.png",name":"FUEL TV (BACKUP) (1)
+http://192.168.69.51:9981/stream/channelid/760414622?profile=pass
+#EXTINF:-1 tvg-id="5bbaa2e24ac10110a2d975b18e93303d" tvg-chno="135",TVE INTERNACIONAL EUROPA (6)
 http://192.168.69.51:9981/stream/channelid/1654831707?profile=pass
-#EXTINF:-1 tvg-id="d2ea7eb1efe899c443095e56a18dcbcb" tvg-chno="194",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3440225358.png",name":"RTP AFRICA (1)
-http://192.168.69.51:9981/stream/channelid/830401234?profile=pass
-#EXTINF:-1 tvg-id="b2998c1a33e0e707148fa873e4cd906a" tvg-chno="194",TVE LA 1 MADRID (6)
-http://192.168.69.51:9981/stream/channelid/445422002?profile=pass
-#EXTINF:-1 tvg-id="65f59f32f25fb7d4a6a7d3daee89d07b" tvg-chno="195",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3473889148.png",name":"RTP MEM\u00d3RIA (1)
-http://192.168.69.51:9981/stream/channelid/849343845?profile=pass
-#EXTINF:-1 tvg-id="0f5c9e2ce75cf9a6a3a056193362744f" tvg-chno="195",TVE LA 2 (6)
+#EXTINF:-1 tvg-id="97fb2fc9001453dfc397f64471fd2f95" tvg-chno="136",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/4286735116.png",name":"HISTORIA (1)
+http://192.168.69.51:9981/stream/channelid/1227881367?profile=pass
+#EXTINF:-1 tvg-id="0f5c9e2ce75cf9a6a3a056193362744f" tvg-chno="136",TVE LA 2 (6)
 http://192.168.69.51:9981/stream/channelid/748575759?profile=pass
-#EXTINF:-1 tvg-id="297afbb3c3f95b92d32beb7784c0ee04" tvg-chno="196",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/9502279.png",name":"SIC CARAS (1)
-http://192.168.69.51:9981/stream/channelid/872118825?profile=pass
-#EXTINF:-1 tvg-id="8b59df095fe5d2d05eed6a66c56a7f7e" tvg-chno="197",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/135516535.png",name":"SIC HD (1)
-http://192.168.69.51:9981/stream/channelid/165632395?profile=pass
-#EXTINF:-1 tvg-id="47751947b8cf4c51c9a5f9fc84fd132c" tvg-chno="197",TVG CULTURAL (6)
+#EXTINF:-1 tvg-id="343aa98bd4ad88c153214bc4eab17870" tvg-chno="137",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2524991142.png",name":"HOLLYWOOD HD (1)
+http://192.168.69.51:9981/stream/channelid/195639860?profile=pass
+#EXTINF:-1 tvg-id="c263ea86ba1eb9bf91c045a5fb212a7c" tvg-chno="138",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2970139228.png",name":"JIM JAM (1)
+http://192.168.69.51:9981/stream/channelid/116024258?profile=pass
+#EXTINF:-1 tvg-id="47751947b8cf4c51c9a5f9fc84fd132c" tvg-chno="138",TVG CULTURAL (6)
 http://192.168.69.51:9981/stream/channelid/1192850759?profile=pass
-#EXTINF:-1 tvg-id="5ade2d3b6a8d04a0e252212c8600b4f0" tvg-chno="198",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/69029936.png",name":"SIC K (1)
-http://192.168.69.51:9981/stream/channelid/992861786?profile=pass
-#EXTINF:-1 tvg-id="bc254ff7bc89276c28b97d9eda8b925b" tvg-chno="198",TVG INFANTIL (6)
+#EXTINF:-1 tvg-id="bc254ff7bc89276c28b97d9eda8b925b" tvg-chno="139",TVG INFANTIL (6)
 http://192.168.69.51:9981/stream/channelid/2001675708?profile=pass
-#EXTINF:-1 tvg-id="e0e516eba33deabc7aeff215b609368c" tvg-chno="199",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1770064968.png",name":"SIC MULHER (1)
-http://192.168.69.51:9981/stream/channelid/1796662752?profile=pass
-#EXTINF:-1 tvg-id="7ad26d0e77defa327e2367f15a306fc0" tvg-chno="199",TVG MUSIGAL (6)
+#EXTINF:-1 tvg-id="7ad26d0e77defa327e2367f15a306fc0" tvg-chno="140",TVG MUSIGAL (6)
 http://192.168.69.51:9981/stream/channelid/242078330?profile=pass
-#EXTINF:-1 tvg-id="52c0dc4b18bfebb4fb75287fc757e5d8" tvg-chno="200",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1355707883.png",name":"SIC NOTICIAS HD (1)
-http://192.168.69.51:9981/stream/channelid/1272758354?profile=pass
-#EXTINF:-1 tvg-id="354b4dc90c85e78f6ea0622ca05a3836" tvg-chno="200",UBEAT (6)
+#EXTINF:-1 tvg-id="049dc845bb50b4f124c9aa7b91adc6c2" tvg-chno="141",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/4005940949.png",name":"MCM POP (1)
+http://192.168.69.51:9981/stream/channelid/1170775300?profile=pass
+#EXTINF:-1 tvg-id="354b4dc90c85e78f6ea0622ca05a3836" tvg-chno="141",UBEAT (6)
 http://192.168.69.51:9981/stream/channelid/1229802293?profile=pass
-#EXTINF:-1 tvg-id="d91da6c2886885cfaef5fd9b9c8bd205" tvg-chno="201",SIC RADICAL (1)
-http://192.168.69.51:9981/stream/channelid/1118182873?profile=pass
-#EXTINF:-1 tvg-id="074c79e13c34677bb4ce7264f7146a19" tvg-chno="201",VAMOS (6)
-http://192.168.69.51:9981/stream/channelid/1635339271?profile=pass
-#EXTINF:-1 tvg-id="f1005b45cf40299cad8188e984633c07" tvg-chno="202",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/781549300.png",name":"SPORT TV (1)
-http://192.168.69.51:9981/stream/channelid/1163591921?profile=pass
-#EXTINF:-1 tvg-id="1f36172141f7b2918621878cb1e55114" tvg-chno="202",XTRM (6)
+#EXTINF:-1 tvg-id="0f8c955b5e134264a9282cf28741a7c8" tvg-chno="142",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3116199641.png",name":"MOTO GP HD (1)
+http://192.168.69.51:9981/stream/channelid/1536527375?profile=pass
+#EXTINF:-1 tvg-id="1f36172141f7b2918621878cb1e55114" tvg-chno="142",XTRM (6)
 http://192.168.69.51:9981/stream/channelid/555169311?profile=pass
-#EXTINF:-1 tvg-id="9a3aacf2cbcab4d1228a0e221915bd2a" tvg-chno="203",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/547278105.jpeg",name":"24 HORAS (1)
+#EXTINF:-1 tvg-id="7c403543c8b08215e94bf790cde59ea6" tvg-chno="143",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2641549648.png",name":"MOTORVISION (1)
+http://192.168.69.51:9981/stream/channelid/1127563388?profile=pass
+#EXTINF:-1 tvg-id="9a3aacf2cbcab4d1228a0e221915bd2a" tvg-chno="143",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/547278105.jpeg",name":"24 HORAS (1)
 http://192.168.69.51:9981/stream/channelid/1923889818?profile=pass
-#EXTINF:-1 tvg-id="6ac235439e76f2d5330ef14ad9563e1c" tvg-chno="203",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/869740623.png",name":"SPORT TV + HD (1)
-http://192.168.69.51:9981/stream/channelid/1127596650?profile=pass
-#EXTINF:-1 tvg-id="62f19c1ca4e300bad85eb00fcbf7d1c7" tvg-chno="204",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2261545992.jpeg",name":"SPORT TV 1 (1)
-http://192.168.69.51:9981/stream/channelid/480047458?profile=pass
-#EXTINF:-1 tvg-id="17605df911d83660afbcb067e0a2562e" tvg-chno="204",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/401201145.jpeg",name":"A3 SERIES HD (1)
+#EXTINF:-1 tvg-id="a24038618a6e9d79aec7a4ed970dd54d" tvg-chno="144",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3257911637.png",name":"MOTORVISION (BACKUP) (1)
+http://192.168.69.51:9981/stream/channelid/1631076514?profile=pass
+#EXTINF:-1 tvg-id="17605df911d83660afbcb067e0a2562e" tvg-chno="144",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/401201145.jpeg",name":"A3 SERIES HD (1)
 http://192.168.69.51:9981/stream/channelid/2036162583?profile=pass
-#EXTINF:-1 tvg-id="f63297f4564ed231db206ccdf35c7ace" tvg-chno="205",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1403896971.jpeg",name":"AMC HD (1)
+#EXTINF:-1 tvg-id="f63297f4564ed231db206ccdf35c7ace" tvg-chno="145",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1403896971.jpeg",name":"AMC HD (1)
 http://192.168.69.51:9981/stream/channelid/1956066038?profile=pass
-#EXTINF:-1 tvg-id="e0dc0dffd83029dee8c9d960480ac987" tvg-chno="205",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/599137987.png",name":"SPORT TV 1 (BACKUP) (1)
-http://192.168.69.51:9981/stream/channelid/2131614944?profile=pass
-#EXTINF:-1 tvg-id="4fc2a04fc9b1c6dd4c425f9c14b1c9be" tvg-chno="206",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3735821740.png",name":"SPORT TV 1 HD (1)
-http://192.168.69.51:9981/stream/channelid/1335935567?profile=pass
-#EXTINF:-1 tvg-id="db4008686bef719e7ff05b42f3ab9a20" tvg-chno="206",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/777383908.jpeg",name":"ANTENA 3 HD (1)
+#EXTINF:-1 tvg-id="ce3e850e85ecdebb5ed5fd09adf05c2a" tvg-chno="145",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3399860079.png",name":"MTV PORTUGAL (1)
+http://192.168.69.51:9981/stream/channelid/243613390?profile=pass
+#EXTINF:-1 tvg-id="996727b951e73cfdd2d372d7dc61e348" tvg-chno="146",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2405138396.png",name":"NAT GEO WILD HD (1)
+http://192.168.69.51:9981/stream/channelid/958883737?profile=pass
+#EXTINF:-1 tvg-id="db4008686bef719e7ff05b42f3ab9a20" tvg-chno="146",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/777383908.jpeg",name":"ANTENA 3 HD (1)
 http://192.168.69.51:9981/stream/channelid/1745371355?profile=pass
-#EXTINF:-1 tvg-id="3496294b97630852188dc2388bf4c860" tvg-chno="207",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3245084376.jpeg",name":"SPORT TV 2 (1)
-http://192.168.69.51:9981/stream/channelid/1261016628?profile=pass
-#EXTINF:-1 tvg-id="5cfa95c839ce4351a18f79d0ef743a1f" tvg-chno="208",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/788518500.jpeg",name":"AXN HD (1)
+#EXTINF:-1 tvg-id="2df30ca3d0bf2959e9e0a1d913538f77" tvg-chno="147",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1745476141.png",name":"NATIONAL GEOGRAPHIC (1)
+http://192.168.69.51:9981/stream/channelid/588051245?profile=pass
+#EXTINF:-1 tvg-id="5cfa95c839ce4351a18f79d0ef743a1f" tvg-chno="148",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/788518500.jpeg",name":"AXN HD (1)
 http://192.168.69.51:9981/stream/channelid/1217788508?profile=pass
-#EXTINF:-1 tvg-id="6dcb1e4b02dee865270dfa435565e5c3" tvg-chno="208",SPORT TV 2 (BACKUP) (1)
-http://192.168.69.51:9981/stream/channelid/1260309357?profile=pass
-#EXTINF:-1 tvg-id="78891913f3d20df322c02efcaf3db92c" tvg-chno="209",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1344477775.png",name":"SPORT TV 2 HD (1)
-http://192.168.69.51:9981/stream/channelid/320440696?profile=pass
-#EXTINF:-1 tvg-id="87837e14f2108e1a8cd8accbb29b83cb" tvg-chno="209",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1716420533.jpeg",name":"AXN WHITE HD (1)
+#EXTINF:-1 tvg-id="0dd6919f06140b7558c0d74b180a5543" tvg-chno="148",NICK JR. (1)
+http://192.168.69.51:9981/stream/channelid/529651213?profile=pass
+#EXTINF:-1 tvg-id="87837e14f2108e1a8cd8accbb29b83cb" tvg-chno="149",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1716420533.jpeg",name":"AXN WHITE HD (1)
 http://192.168.69.51:9981/stream/channelid/343835527?profile=pass
-#EXTINF:-1 tvg-id="cab91c31ff218753b9250eb830ae0cc1" tvg-chno="210",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1417061829.jpeg",name":"BABY TV (1)
+#EXTINF:-1 tvg-id="f5ffc0792c5219b6e341d29d3c2d679b" tvg-chno="149",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3409610951.png",name":"NICKELODEON (1)
+http://192.168.69.51:9981/stream/channelid/2042691573?profile=pass
+#EXTINF:-1 tvg-id="cab91c31ff218753b9250eb830ae0cc1" tvg-chno="150",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1417061829.jpeg",name":"BABY TV (1)
 http://192.168.69.51:9981/stream/channelid/823966154?profile=pass
-#EXTINF:-1 tvg-id="5525d3cb542ac6dd04ca6b66fab900ef" tvg-chno="211",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/4228654952.jpeg",name":"SPORT TV 3 (1)
-http://192.168.69.51:9981/stream/channelid/1272128853?profile=pass
-#EXTINF:-1 tvg-id="9064603e916ec2ab1440fb2491196e42" tvg-chno="212",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3268991598.png",name":"SPORT TV 3 (BACKUP) (1)
-http://192.168.69.51:9981/stream/channelid/1046504592?profile=pass
-#EXTINF:-1 tvg-id="ee582c88ae16e9c5af1e73b240a3f339" tvg-chno="213",BEIN SPORTS LA LIGA (1)
+#EXTINF:-1 tvg-id="ae1405ebb8e5208668a6a41dac8fa1a7" tvg-chno="150",NOS STUDIOS (1)
+http://192.168.69.51:9981/stream/channelid/1795495086?profile=pass
+#EXTINF:-1 tvg-id="d7746985aba9528ccaa75f7c382d79b5" tvg-chno="151",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2634956104.png",name":"ODISSEIA (1)
+http://192.168.69.51:9981/stream/channelid/90797271?profile=pass
+#EXTINF:-1 tvg-id="a05d57b5c6ec21186c89486dc6e43a71" tvg-chno="153",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2985210323.png",name":"PFC (1)
+http://192.168.69.51:9981/stream/channelid/894918048?profile=pass
+#EXTINF:-1 tvg-id="ee582c88ae16e9c5af1e73b240a3f339" tvg-chno="154",BEIN SPORTS LA LIGA (1)
 http://192.168.69.51:9981/stream/channelid/137124078?profile=pass
-#EXTINF:-1 tvg-id="f061d438f74151ddff0d94bafb230819" tvg-chno="213",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2626230993.png",name":"SPORT TV 3 HD (1)
-http://192.168.69.51:9981/stream/channelid/953442800?profile=pass
-#EXTINF:-1 tvg-id="6dd039fc92be43598baf7285fbdf0d15" tvg-chno="214",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2680744925.png",name":"BEIN SPORTS N (1)
+#EXTINF:-1 tvg-id="6a7dab33b88814a7449e0d5eb7244ffa" tvg-chno="154",PFC (BACKUP) (1)
+http://192.168.69.51:9981/stream/channelid/866876778?profile=pass
+#EXTINF:-1 tvg-id="32bad434370ade8cfc4e4cf2f7443443" tvg-chno="155",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1218014841.png",name":"PORTO CANAL (1)
+http://192.168.69.51:9981/stream/channelid/886356530?profile=pass
+#EXTINF:-1 tvg-id="6dd039fc92be43598baf7285fbdf0d15" tvg-chno="155",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2680744925.png",name":"BEIN SPORTS N (1)
 http://192.168.69.51:9981/stream/channelid/2084163693?profile=pass
-#EXTINF:-1 tvg-id="1ab0d719b8bc76917f419ddd00358701" tvg-chno="214",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3926728715.png",name":"SPORT TV 3 HD (BACKUP) (1)
-http://192.168.69.51:9981/stream/channelid/433565722?profile=pass
-#EXTINF:-1 tvg-id="8f50e9de3472ad8bc72a55b71e584b06" tvg-chno="215",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1311570808.jpeg",name":"SPORT TV 4 (1)
-http://192.168.69.51:9981/stream/channelid/1592348815?profile=pass
-#EXTINF:-1 tvg-id="25f76bc13356a4e34a8f176acd710846" tvg-chno="215",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/328666171.jpeg",name":"BLAZE (1)
+#EXTINF:-1 tvg-id="324c709a135559abb41a93fc00bcb631" tvg-chno="156",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1931107682.png",name":"PORTO CANAL (BACKUP) (1)
+http://192.168.69.51:9981/stream/channelid/443567154?profile=pass
+#EXTINF:-1 tvg-id="25f76bc13356a4e34a8f176acd710846" tvg-chno="156",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/328666171.jpeg",name":"BLAZE (1)
 http://192.168.69.51:9981/stream/channelid/1097594661?profile=pass
-#EXTINF:-1 tvg-id="1d17f5a216a13a0ce390da63d5fa3f58" tvg-chno="216",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1282430546.jpeg",name":"BOING (1)
+#EXTINF:-1 tvg-id="1d17f5a216a13a0ce390da63d5fa3f58" tvg-chno="157",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1282430546.jpeg",name":"BOING (1)
 http://192.168.69.51:9981/stream/channelid/586487581?profile=pass
-#EXTINF:-1 tvg-id="ee7682335eb87ed97db567c7fc4a5337" tvg-chno="216",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2803200174.png",name":"SPORT TV 4 (BACKUP) (1)
-http://192.168.69.51:9981/stream/channelid/864188142?profile=pass
-#EXTINF:-1 tvg-id="9878fa962b056e11711874f4f1eea506" tvg-chno="217",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2521568200.png",name":"SPORT TV 4 HD (1)
-http://192.168.69.51:9981/stream/channelid/385513624?profile=pass
-#EXTINF:-1 tvg-id="c3bd369993a0c07d1fe11ac343cf91ad" tvg-chno="217",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/89463709.jpeg",name":"CALLE 13 HD (1)
+#EXTINF:-1 tvg-id="6f0206b888b59cd55b21e975a92d70c1" tvg-chno="157",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/4213627122.png",name":"RTP 1 HD (1)
+http://192.168.69.51:9981/stream/channelid/939917935?profile=pass
+#EXTINF:-1 tvg-id="aa5d3ae11a41aea41f7c31d0d1d68224" tvg-chno="158",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1445749860.png",name":"RTP 2 (1)
+http://192.168.69.51:9981/stream/channelid/1631215018?profile=pass
+#EXTINF:-1 tvg-id="c3bd369993a0c07d1fe11ac343cf91ad" tvg-chno="158",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/89463709.jpeg",name":"CALLE 13 HD (1)
 http://192.168.69.51:9981/stream/channelid/423017923?profile=pass
-#EXTINF:-1 tvg-id="bf66e4bc6a240259cb284cf22f5d5514" tvg-chno="218",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1749667611.jpeg",name":"CANAL COCINA (1)
+#EXTINF:-1 tvg-id="bf66e4bc6a240259cb284cf22f5d5514" tvg-chno="159",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1749667611.jpeg",name":"CANAL COCINA (1)
 http://192.168.69.51:9981/stream/channelid/1021601471?profile=pass
-#EXTINF:-1 tvg-id="32c1243c419c6b15477da238ef336dfa" tvg-chno="218",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1934414536.jpeg",name":"SPORT TV 5 (1)
-http://192.168.69.51:9981/stream/channelid/1009041714?profile=pass
-#EXTINF:-1 tvg-id="eae77ad3aca69d194c2b5a3fd73ec93e" tvg-chno="219",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2468086238.jpeg",name":"CANAL DECASA (1)
+#EXTINF:-1 tvg-id="171d014de862901f29f5972fa12fc87d" tvg-chno="159",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1800162772.png",name":"RTP 3 (1)
+http://192.168.69.51:9981/stream/channelid/1291918615?profile=pass
+#EXTINF:-1 tvg-id="eae77ad3aca69d194c2b5a3fd73ec93e" tvg-chno="160",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2468086238.jpeg",name":"CANAL DECASA (1)
 http://192.168.69.51:9981/stream/channelid/1400563690?profile=pass
-#EXTINF:-1 tvg-id="48df231466fcb145ae01a8140edb2c18" tvg-chno="220",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3364462275.jpeg",name":"CANAL ODISEA (1)
+#EXTINF:-1 tvg-id="fba4a7c2e87ec3a8e9201cf2b004a183" tvg-chno="160",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3380879920.png",name":"RTP ACORES (1)
+http://192.168.69.51:9981/stream/channelid/1118283003?profile=pass
+#EXTINF:-1 tvg-id="48df231466fcb145ae01a8140edb2c18" tvg-chno="161",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3364462275.jpeg",name":"CANAL ODISEA (1)
 http://192.168.69.51:9981/stream/channelid/337895240?profile=pass
-#EXTINF:-1 tvg-id="c359c10d444e0829e2e38fbd7d37982a" tvg-chno="221",CANAL PANDA (1)
+#EXTINF:-1 tvg-id="d2ea7eb1efe899c443095e56a18dcbcb" tvg-chno="161",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3440225358.png",name":"RTP AFRICA (1)
+http://192.168.69.51:9981/stream/channelid/830401234?profile=pass
+#EXTINF:-1 tvg-id="c359c10d444e0829e2e38fbd7d37982a" tvg-chno="162",CANAL PANDA (1)
 http://192.168.69.51:9981/stream/channelid/230775235?profile=pass
-#EXTINF:-1 tvg-id="5fcb468d8f8b61ff2e75ad0877decc31" tvg-chno="221",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/269580968.png",name":"SPORT TV NBA HD (BACKUP) (1)
-http://192.168.69.51:9981/stream/channelid/222743391?profile=pass
-#EXTINF:-1 tvg-id="7cdc6c14963a9715cc696affe6529e1f" tvg-chno="222",CAZA Y PESCA HD (1)
+#EXTINF:-1 tvg-id="65f59f32f25fb7d4a6a7d3daee89d07b" tvg-chno="162",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3473889148.png",name":"RTP MEM\u00d3RIA (1)
+http://192.168.69.51:9981/stream/channelid/849343845?profile=pass
+#EXTINF:-1 tvg-id="297afbb3c3f95b92d32beb7784c0ee04" tvg-chno="163",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/9502279.png",name":"SIC CARAS (1)
+http://192.168.69.51:9981/stream/channelid/872118825?profile=pass
+#EXTINF:-1 tvg-id="8b59df095fe5d2d05eed6a66c56a7f7e" tvg-chno="164",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/135516535.png",name":"SIC HD (1)
+http://192.168.69.51:9981/stream/channelid/165632395?profile=pass
+#EXTINF:-1 tvg-id="7cdc6c14963a9715cc696affe6529e1f" tvg-chno="164",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2571626031.png",name":"CAZA Y PESCA HD (1)
 http://192.168.69.51:9981/stream/channelid/342678652?profile=pass
-#EXTINF:-1 tvg-id="8c2e60dfd92f2b47d1cb4a60ae9cfd6a" tvg-chno="222",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1075005064.png",name":"SPORTING TV (1)
-http://192.168.69.51:9981/stream/channelid/1600138892?profile=pass
-#EXTINF:-1 tvg-id="410d66180e9fa825b8c0ec36d7d8ab49" tvg-chno="223",CLAN (1)
+#EXTINF:-1 tvg-id="5ade2d3b6a8d04a0e252212c8600b4f0" tvg-chno="165",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/69029936.png",name":"SIC K (1)
+http://192.168.69.51:9981/stream/channelid/992861786?profile=pass
+#EXTINF:-1 tvg-id="e0e516eba33deabc7aeff215b609368c" tvg-chno="166",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1770064968.png",name":"SIC MULHER (1)
+http://192.168.69.51:9981/stream/channelid/1796662752?profile=pass
+#EXTINF:-1 tvg-id="410d66180e9fa825b8c0ec36d7d8ab49" tvg-chno="166",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/666061580.jpeg",name":"CLAN (1)
 http://192.168.69.51:9981/stream/channelid/409341249?profile=pass
-#EXTINF:-1 tvg-id="64bed3c291cf7c85ff4d4ef5660b3472" tvg-chno="223",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/405914761.png",name":"SPORTING TV (BACKUP) (1)
-http://192.168.69.51:9981/stream/channelid/1121173092?profile=pass
-#EXTINF:-1 tvg-id="2910bfba92fde4c36019553a5df40a0e" tvg-chno="224",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1620429502.png",name":"SYFY (1)
-http://192.168.69.51:9981/stream/channelid/985600041?profile=pass
-#EXTINF:-1 tvg-id="e3f30542d61e6c11f164e38f978220fc" tvg-chno="225",CLASSICA (1)
+#EXTINF:-1 tvg-id="52c0dc4b18bfebb4fb75287fc757e5d8" tvg-chno="167",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1355707883.png",name":"SIC NOTICIAS HD (1)
+http://192.168.69.51:9981/stream/channelid/1272758354?profile=pass
+#EXTINF:-1 tvg-id="e3f30542d61e6c11f164e38f978220fc" tvg-chno="168",CLASSICA (1)
 http://192.168.69.51:9981/stream/channelid/1107686371?profile=pass
-#EXTINF:-1 tvg-id="7e17099ebd96696a3aacece9649a0713" tvg-chno="225",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3829053094.png",name":"TLC (1)
-http://192.168.69.51:9981/stream/channelid/503912318?profile=pass
-#EXTINF:-1 tvg-id="bcaa6db8f628393ca34bc7b5642db86c" tvg-chno="226",COMEDY CENTRAL HD (1)
+#EXTINF:-1 tvg-id="d91da6c2886885cfaef5fd9b9c8bd205" tvg-chno="168",SIC RADICAL (1)
+http://192.168.69.51:9981/stream/channelid/1118182873?profile=pass
+#EXTINF:-1 tvg-id="bcaa6db8f628393ca34bc7b5642db86c" tvg-chno="169",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/4145780732.jpeg",name":"COMEDY CENTRAL HD (1)
 http://192.168.69.51:9981/stream/channelid/946711228?profile=pass
-#EXTINF:-1 tvg-id="65d3fd7aaf722c26390f1bb7f3fabe47" tvg-chno="227",COSMO HD (1)
+#EXTINF:-1 tvg-id="f1005b45cf40299cad8188e984633c07" tvg-chno="169",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/781549300.png",name":"SPORT TV (1)
+http://192.168.69.51:9981/stream/channelid/1163591921?profile=pass
+#EXTINF:-1 tvg-id="65d3fd7aaf722c26390f1bb7f3fabe47" tvg-chno="170",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2611180985.jpeg",name":"COSMO HD (1)
 http://192.168.69.51:9981/stream/channelid/2063455077?profile=pass
-#EXTINF:-1 tvg-id="84ddb58c80e42dc9e591d4b3f0396307" tvg-chno="227",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2918913203.png",name":"TOROS TV (BACKUP) (1)
-http://192.168.69.51:9981/stream/channelid/213245316?profile=pass
-#EXTINF:-1 tvg-id="4c4372e0ace42d777c92f31f70da0602" tvg-chno="228",CRIME & INVESTIGATION (1)
+#EXTINF:-1 tvg-id="6ac235439e76f2d5330ef14ad9563e1c" tvg-chno="170",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/869740623.png",name":"SPORT TV + HD (1)
+http://192.168.69.51:9981/stream/channelid/1127596650?profile=pass
+#EXTINF:-1 tvg-id="62f19c1ca4e300bad85eb00fcbf7d1c7" tvg-chno="171",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2261545992.jpeg",name":"SPORT TV 1 (1)
+http://192.168.69.51:9981/stream/channelid/480047458?profile=pass
+#EXTINF:-1 tvg-id="4c4372e0ace42d777c92f31f70da0602" tvg-chno="171",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/652290471.jpeg",name":"CRIME & INVESTIGATION (1)
 http://192.168.69.51:9981/stream/channelid/1618101068?profile=pass
-#EXTINF:-1 tvg-id="3d01fe7e3750a6754e54f5c82b8e4ff6" tvg-chno="228",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1617387595.png",name":"TRACE URBAN HD (1)
-http://192.168.69.51:9981/stream/channelid/2130575677?profile=pass
-#EXTINF:-1 tvg-id="0c205e7d942b9aed5c1331e3512777af" tvg-chno="229",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1252860165.jpeg",name":"CUATRO HD (1)
+#EXTINF:-1 tvg-id="0c205e7d942b9aed5c1331e3512777af" tvg-chno="172",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1252860165.jpeg",name":"CUATRO HD (1)
 http://192.168.69.51:9981/stream/channelid/2103320588?profile=pass
-#EXTINF:-1 tvg-id="8b3041169b2896558708903bbc00d21c" tvg-chno="229",TRAVEL CHANNEL HD (1)
-http://192.168.69.51:9981/stream/channelid/373371019?profile=pass
-#EXTINF:-1 tvg-id="c496be961b8a4631ff7c0df2c3a5fd2f" tvg-chno="230",DISCOVERY CHANNEL (1)
+#EXTINF:-1 tvg-id="e0dc0dffd83029dee8c9d960480ac987" tvg-chno="172",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/599137987.png",name":"SPORT TV 1 (BACKUP) (1)
+http://192.168.69.51:9981/stream/channelid/2131614944?profile=pass
+#EXTINF:-1 tvg-id="c496be961b8a4631ff7c0df2c3a5fd2f" tvg-chno="173",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1864712382.jpeg",name":"DISCOVERY CHANNEL (1)
 http://192.168.69.51:9981/stream/channelid/381589188?profile=pass
-#EXTINF:-1 tvg-id="50830cc6e8ba727acd3beef6662f9d62" tvg-chno="230",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/517736220.png",name":"TV GLOBO (1)
-http://192.168.69.51:9981/stream/channelid/1175225168?profile=pass
-#EXTINF:-1 tvg-id="2f316be1010efa3ecec70a488a968c01" tvg-chno="231",DISNEY CHANNEL HD (1)
+#EXTINF:-1 tvg-id="4fc2a04fc9b1c6dd4c425f9c14b1c9be" tvg-chno="173",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3735821740.png",name":"SPORT TV 1 HD (1)
+http://192.168.69.51:9981/stream/channelid/1335935567?profile=pass
+#EXTINF:-1 tvg-id="2f316be1010efa3ecec70a488a968c01" tvg-chno="174",DISNEY CHANNEL HD (1)
 http://192.168.69.51:9981/stream/channelid/1634414895?profile=pass
-#EXTINF:-1 tvg-id="9d7179442e5fdea1e428d07eed2394a3" tvg-chno="231",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1684667062.png",name":"TV GLOBO NOW (1)
-http://192.168.69.51:9981/stream/channelid/1148809629?profile=pass
-#EXTINF:-1 tvg-id="773d0aef23048530e5cf4907a616a5d0" tvg-chno="232",DISNEY JUNIOR (1)
+#EXTINF:-1 tvg-id="773d0aef23048530e5cf4907a616a5d0" tvg-chno="175",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1263874425.jpeg",name":"DISNEY JUNIOR (1)
 http://192.168.69.51:9981/stream/channelid/1862942071?profile=pass
-#EXTINF:-1 tvg-id="435b3e3ac67d24b374f460ee617264df" tvg-chno="232",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1481742160.png",name":"TV RECORD (1)
-http://192.168.69.51:9981/stream/channelid/977165123?profile=pass
-#EXTINF:-1 tvg-id="c2eb2f7a75b9c007dd04ed144344a133" tvg-chno="234",ENERGY (1)
+#EXTINF:-1 tvg-id="3496294b97630852188dc2388bf4c860" tvg-chno="175",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3245084376.jpeg",name":"SPORT TV 2 (1)
+http://192.168.69.51:9981/stream/channelid/1261016628?profile=pass
+#EXTINF:-1 tvg-id="6dcb1e4b02dee865270dfa435565e5c3" tvg-chno="176",SPORT TV 2 (BACKUP) (1)
+http://192.168.69.51:9981/stream/channelid/1260309357?profile=pass
+#EXTINF:-1 tvg-id="78891913f3d20df322c02efcaf3db92c" tvg-chno="177",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1344477775.png",name":"SPORT TV 2 HD (1)
+http://192.168.69.51:9981/stream/channelid/320440696?profile=pass
+#EXTINF:-1 tvg-id="c2eb2f7a75b9c007dd04ed144344a133" tvg-chno="178",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3077927255.jpeg",name":"ENERGY (1)
 http://192.168.69.51:9981/stream/channelid/2049960898?profile=pass
-#EXTINF:-1 tvg-id="84f4b1f67967ff81e11578d8d88a9f24" tvg-chno="234",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/433288726.png",name":"TVCINE EDITION HD (1)
-http://192.168.69.51:9981/stream/channelid/1991373956?profile=pass
-#EXTINF:-1 tvg-id="d8fbabd1d31a8c97b791c19c32d29188" tvg-chno="235",EUROSPORT 1 (1)
+#EXTINF:-1 tvg-id="5525d3cb542ac6dd04ca6b66fab900ef" tvg-chno="179",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/4228654952.jpeg",name":"SPORT TV 3 (1)
+http://192.168.69.51:9981/stream/channelid/1272128853?profile=pass
+#EXTINF:-1 tvg-id="d8fbabd1d31a8c97b791c19c32d29188" tvg-chno="179",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/945168704.png",name":"EUROSPORT 1 (1)
 http://192.168.69.51:9981/stream/channelid/1370225624?profile=pass
-#EXTINF:-1 tvg-id="f65eb0fff97586e1c7d6dd6340de8e72" tvg-chno="235",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1903941918.png",name":"TVCINE EMOTION HD (1)
-http://192.168.69.51:9981/stream/channelid/2142265078?profile=pass
-#EXTINF:-1 tvg-id="af2da39512dc1674d0c229c7e4ac7850" tvg-chno="236",EUROSPORT 1 HD (1)
+#EXTINF:-1 tvg-id="af2da39512dc1674d0c229c7e4ac7850" tvg-chno="180",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1999835681.jpeg",name":"EUROSPORT 1 HD (1)
 http://192.168.69.51:9981/stream/channelid/363015599?profile=pass
-#EXTINF:-1 tvg-id="24bcedf510d6dbe23334de4cde9b76cc" tvg-chno="237",EUROSPORT 2 (1)
+#EXTINF:-1 tvg-id="9064603e916ec2ab1440fb2491196e42" tvg-chno="180",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3268991598.png",name":"SPORT TV 3 (BACKUP) (1)
+http://192.168.69.51:9981/stream/channelid/1046504592?profile=pass
+#EXTINF:-1 tvg-id="24bcedf510d6dbe23334de4cde9b76cc" tvg-chno="181",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2146851728.png",name":"EUROSPORT 2 (1)
 http://192.168.69.51:9981/stream/channelid/1978514468?profile=pass
-#EXTINF:-1 tvg-id="e846b1227e23c067a16ca01b32dae135" tvg-chno="237",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1528665358.png",name":"TVI 24 (1)
-http://192.168.69.51:9981/stream/channelid/582043368?profile=pass
-#EXTINF:-1 tvg-id="f86111f0505ba3bbf52ef19840236d08" tvg-chno="238",EUROSPORT 2 (BACKUP) (1)
+#EXTINF:-1 tvg-id="f061d438f74151ddff0d94bafb230819" tvg-chno="181",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2626230993.png",name":"SPORT TV 3 HD (1)
+http://192.168.69.51:9981/stream/channelid/953442800?profile=pass
+#EXTINF:-1 tvg-id="f86111f0505ba3bbf52ef19840236d08" tvg-chno="182",EUROSPORT 2 (BACKUP) (1)
 http://192.168.69.51:9981/stream/channelid/1880187384?profile=pass
-#EXTINF:-1 tvg-id="7c892398c59311bd97822d5d5bdb4c5b" tvg-chno="239",FDF (1)
+#EXTINF:-1 tvg-id="1ab0d719b8bc76917f419ddd00358701" tvg-chno="182",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3926728715.png",name":"SPORT TV 3 HD (BACKUP) (1)
+http://192.168.69.51:9981/stream/channelid/433565722?profile=pass
+#EXTINF:-1 tvg-id="7c892398c59311bd97822d5d5bdb4c5b" tvg-chno="183",FDF (1)
 http://192.168.69.51:9981/stream/channelid/404982140?profile=pass
-#EXTINF:-1 tvg-id="6676c49291385a40710fc69bb3fd4a59" tvg-chno="239",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2808128831.png",name":"TVI REALITY (1)
-http://192.168.69.51:9981/stream/channelid/314865254?profile=pass
-#EXTINF:-1 tvg-id="4685cc0a26adbda058eac2ba008e04b3" tvg-chno="240",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1797674550.png",name":"VH1 (1)
-http://192.168.69.51:9981/stream/channelid/181175622?profile=pass
-#EXTINF:-1 tvg-id="a9adcd9277121a791e622b7bf35d9d3e" tvg-chno="240",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3193362953.jpeg",name":"FOX HD (1)
+#EXTINF:-1 tvg-id="8f50e9de3472ad8bc72a55b71e584b06" tvg-chno="183",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1311570808.jpeg",name":"SPORT TV 4 (1)
+http://192.168.69.51:9981/stream/channelid/1592348815?profile=pass
+#EXTINF:-1 tvg-id="ee7682335eb87ed97db567c7fc4a5337" tvg-chno="184",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2803200174.png",name":"SPORT TV 4 (BACKUP) (1)
+http://192.168.69.51:9981/stream/channelid/864188142?profile=pass
+#EXTINF:-1 tvg-id="a9adcd9277121a791e622b7bf35d9d3e" tvg-chno="184",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3193362953.jpeg",name":"FOX HD (1)
 http://192.168.69.51:9981/stream/channelid/315469225?profile=pass
-#EXTINF:-1 tvg-id="3e39db88cac07140bd12ba9eda7156aa" tvg-chno="241",FOX LIFE HD (1)
+#EXTINF:-1 tvg-id="3e39db88cac07140bd12ba9eda7156aa" tvg-chno="185",FOX LIFE HD (1)
 http://192.168.69.51:9981/stream/channelid/148584766?profile=pass
-#EXTINF:-1 tvg-id="5972822b4acfc2f6398ae6116f8f76c5" tvg-chno="242",GOL (1)
+#EXTINF:-1 tvg-id="9878fa962b056e11711874f4f1eea506" tvg-chno="185",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2521568200.png",name":"SPORT TV 4 HD (1)
+http://192.168.69.51:9981/stream/channelid/385513624?profile=pass
+#EXTINF:-1 tvg-id="5972822b4acfc2f6398ae6116f8f76c5" tvg-chno="186",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1772987572.jpeg",name":"GOL (1)
 http://192.168.69.51:9981/stream/channelid/729969241?profile=pass
-#EXTINF:-1 tvg-id="c3b5b94ec65ec2c6b3b1a96f9c952a82" tvg-chno="243",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1222866273.png",name":"GOL TV HD (1)
+#EXTINF:-1 tvg-id="32c1243c419c6b15477da238ef336dfa" tvg-chno="186",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1934414536.jpeg",name":"SPORT TV 5 (1)
+http://192.168.69.51:9981/stream/channelid/1009041714?profile=pass
+#EXTINF:-1 tvg-id="c3b5b94ec65ec2c6b3b1a96f9c952a82" tvg-chno="187",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1222866273.png",name":"GOL TV HD (1)
 http://192.168.69.51:9981/stream/channelid/1320793539?profile=pass
-#EXTINF:-1 tvg-id="def03e8d28977296a83d78e88a21cf7f" tvg-chno="244",HISTORIA (1)
+#EXTINF:-1 tvg-id="def03e8d28977296a83d78e88a21cf7f" tvg-chno="188",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2058121737.jpeg",name":"HISTORIA (1)
 http://192.168.69.51:9981/stream/channelid/222228702?profile=pass
-#EXTINF:-1 tvg-id="6d1308b30c9957ff9ee9dd4779e20584" tvg-chno="245",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/711919952.jpeg",name":"HOLLYWOOD HD (1)
+#EXTINF:-1 tvg-id="6d1308b30c9957ff9ee9dd4779e20584" tvg-chno="189",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/711919952.jpeg",name":"HOLLYWOOD HD (1)
 http://192.168.69.51:9981/stream/channelid/856167277?profile=pass
-#EXTINF:-1 tvg-id="d6fab847dad5f16f966bed9418306b75" tvg-chno="246",IBERLIA TV (1)
+#EXTINF:-1 tvg-id="5fcb468d8f8b61ff2e75ad0877decc31" tvg-chno="190",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/269580968.png",name":"SPORT TV NBA HD (BACKUP) (1)
+http://192.168.69.51:9981/stream/channelid/222743391?profile=pass
+#EXTINF:-1 tvg-id="d6fab847dad5f16f966bed9418306b75" tvg-chno="190",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3743019169.jpeg",name":"IBERLIA TV (1)
 http://192.168.69.51:9981/stream/channelid/1203305174?profile=pass
-#EXTINF:-1 tvg-id="014c71e59f9cef30c7f8389ab7e5d4da" tvg-chno="247",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/430938861.jpeg",name":"LA 1 HD (1)
+#EXTINF:-1 tvg-id="8c2e60dfd92f2b47d1cb4a60ae9cfd6a" tvg-chno="191",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1075005064.png",name":"SPORTING TV (1)
+http://192.168.69.51:9981/stream/channelid/1600138892?profile=pass
+#EXTINF:-1 tvg-id="014c71e59f9cef30c7f8389ab7e5d4da" tvg-chno="191",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/430938861.jpeg",name":"LA 1 HD (1)
 http://192.168.69.51:9981/stream/channelid/1701923841?profile=pass
-#EXTINF:-1 tvg-id="7b1f713fe94363f624a7ddaf82710c2a" tvg-chno="248",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1421585145.jpeg",name":"LA LIGA TV HD (1)
+#EXTINF:-1 tvg-id="64bed3c291cf7c85ff4d4ef5660b3472" tvg-chno="192",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/405914761.png",name":"SPORTING TV (BACKUP) (1)
+http://192.168.69.51:9981/stream/channelid/1121173092?profile=pass
+#EXTINF:-1 tvg-id="7b1f713fe94363f624a7ddaf82710c2a" tvg-chno="193",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1421585145.jpeg",name":"LA LIGA TV HD (1)
 http://192.168.69.51:9981/stream/channelid/1064378235?profile=pass
-#EXTINF:-1 tvg-id="97a223e86e2ded1153efbf4a7e95fe8a" tvg-chno="249",LA SEXTA HD (1)
+#EXTINF:-1 tvg-id="2910bfba92fde4c36019553a5df40a0e" tvg-chno="193",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1620429502.png",name":"SYFY (1)
+http://192.168.69.51:9981/stream/channelid/985600041?profile=pass
+#EXTINF:-1 tvg-id="97a223e86e2ded1153efbf4a7e95fe8a" tvg-chno="194",LA SEXTA HD (1)
 http://192.168.69.51:9981/stream/channelid/1747165847?profile=pass
-#EXTINF:-1 tvg-id="898d2d05a4e0c26ecdff857bc9cb2ea9" tvg-chno="250",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1019163502.jpeg",name":"LALIGA TV BAR (1)
+#EXTINF:-1 tvg-id="7e17099ebd96696a3aacece9649a0713" tvg-chno="194",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3829053094.png",name":"TLC (1)
+http://192.168.69.51:9981/stream/channelid/503912318?profile=pass
+#EXTINF:-1 tvg-id="898d2d05a4e0c26ecdff857bc9cb2ea9" tvg-chno="195",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1019163502.jpeg",name":"LALIGA TV BAR (1)
 http://192.168.69.51:9981/stream/channelid/86871433?profile=pass
-#EXTINF:-1 tvg-id="820c87493de6508e30536eb076b2c357" tvg-chno="251",LIGA CAMPEONES HD (1)
+#EXTINF:-1 tvg-id="84ddb58c80e42dc9e591d4b3f0396307" tvg-chno="196",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2918913203.png",name":"TOROS TV (BACKUP) (1)
+http://192.168.69.51:9981/stream/channelid/213245316?profile=pass
+#EXTINF:-1 tvg-id="820c87493de6508e30536eb076b2c357" tvg-chno="196",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/4215248680.jpeg",name":"LIGA CAMPEONES HD (1)
 http://192.168.69.51:9981/stream/channelid/1233587330?profile=pass
-#EXTINF:-1 tvg-id="8480d2560571a79cc39ff62f8d3dc690" tvg-chno="252",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/4028539366.jpeg",name":"LIGA TV (1)
+#EXTINF:-1 tvg-id="3d01fe7e3750a6754e54f5c82b8e4ff6" tvg-chno="197",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1617387595.png",name":"TRACE URBAN HD (1)
+http://192.168.69.51:9981/stream/channelid/2130575677?profile=pass
+#EXTINF:-1 tvg-id="8480d2560571a79cc39ff62f8d3dc690" tvg-chno="197",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/4028539366.jpeg",name":"LIGA TV (1)
 http://192.168.69.51:9981/stream/channelid/1456636036?profile=pass
-#EXTINF:-1 tvg-id="c6dd8c01ed5a94a56cfee9d9a698e5b8" tvg-chno="254",M.ACCION HD (1)
+#EXTINF:-1 tvg-id="8b3041169b2896558708903bbc00d21c" tvg-chno="198",TRAVEL CHANNEL HD (1)
+http://192.168.69.51:9981/stream/channelid/373371019?profile=pass
+#EXTINF:-1 tvg-id="50830cc6e8ba727acd3beef6662f9d62" tvg-chno="199",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/517736220.png",name":"TV GLOBO (1)
+http://192.168.69.51:9981/stream/channelid/1175225168?profile=pass
+#EXTINF:-1 tvg-id="9d7179442e5fdea1e428d07eed2394a3" tvg-chno="200",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1684667062.png",name":"TV GLOBO NOW (1)
+http://192.168.69.51:9981/stream/channelid/1148809629?profile=pass
+#EXTINF:-1 tvg-id="c6dd8c01ed5a94a56cfee9d9a698e5b8" tvg-chno="200",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3450126023.jpeg",name":"M.ACCION HD (1)
 http://192.168.69.51:9981/stream/channelid/26009030?profile=pass
-#EXTINF:-1 tvg-id="3e0c24cd8efd071da3733c67fd9db592" tvg-chno="255",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/215044469.jpeg",name":"M.DEPORTES HD (1)
+#EXTINF:-1 tvg-id="435b3e3ac67d24b374f460ee617264df" tvg-chno="201",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1481742160.png",name":"TV RECORD (1)
+http://192.168.69.51:9981/stream/channelid/977165123?profile=pass
+#EXTINF:-1 tvg-id="3e0c24cd8efd071da3733c67fd9db592" tvg-chno="201",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/215044469.jpeg",name":"M.DEPORTES HD (1)
 http://192.168.69.51:9981/stream/channelid/1294208062?profile=pass
-#EXTINF:-1 tvg-id="66e410026e16dca0859deef0ff8d74cc" tvg-chno="256",M.ESTRENOS HD (1)
+#EXTINF:-1 tvg-id="66e410026e16dca0859deef0ff8d74cc" tvg-chno="202",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1530605876.jpeg",name":"M.ESTRENOS HD (1)
 http://192.168.69.51:9981/stream/channelid/34661478?profile=pass
-#EXTINF:-1 tvg-id="9c7c1db0b4b4fccef35abfeeab462772" tvg-chno="257",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/910594931.jpeg",name":"M.FORMULA 1 HD (1)
+#EXTINF:-1 tvg-id="84f4b1f67967ff81e11578d8d88a9f24" tvg-chno="203",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/433288726.png",name":"TVCINE EDITION HD (1)
+http://192.168.69.51:9981/stream/channelid/1991373956?profile=pass
+#EXTINF:-1 tvg-id="9c7c1db0b4b4fccef35abfeeab462772" tvg-chno="203",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/910594931.jpeg",name":"M.FORMULA 1 HD (1)
 http://192.168.69.51:9981/stream/channelid/807238812?profile=pass
-#EXTINF:-1 tvg-id="136c7c73bd6003b49bbe61d7ad5867f2" tvg-chno="258",M.GOLF HD (1)
+#EXTINF:-1 tvg-id="f65eb0fff97586e1c7d6dd6340de8e72" tvg-chno="204",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1903941918.png",name":"TVCINE EMOTION HD (1)
+http://192.168.69.51:9981/stream/channelid/2142265078?profile=pass
+#EXTINF:-1 tvg-id="136c7c73bd6003b49bbe61d7ad5867f2" tvg-chno="204",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2837789403.jpeg",name":"M.GOLF HD (1)
 http://192.168.69.51:9981/stream/channelid/1937533971?profile=pass
-#EXTINF:-1 tvg-id="1e5d4b25bfd056c762e10988fafc2e6e" tvg-chno="259",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3566202896.jpeg",name":"M.LIGA DE CAMPEONES HD (1)
+#EXTINF:-1 tvg-id="1e5d4b25bfd056c762e10988fafc2e6e" tvg-chno="205",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3566202896.jpeg",name":"M.LIGA DE CAMPEONES HD (1)
 http://192.168.69.51:9981/stream/channelid/625696030?profile=pass
-#EXTINF:-1 tvg-id="b7851e83538aa5aa0a4b064bffb14ed7" tvg-chno="261",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/927664097.jpeg",name":"MOVISTAR ACCI\u00a9N HD (1)
+#EXTINF:-1 tvg-id="e846b1227e23c067a16ca01b32dae135" tvg-chno="206",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1528665358.png",name":"TVI 24 (1)
+http://192.168.69.51:9981/stream/channelid/582043368?profile=pass
+#EXTINF:-1 tvg-id="b7851e83538aa5aa0a4b064bffb14ed7" tvg-chno="207",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/927664097.jpeg",name":"MOVISTAR ACCI\u00a9N HD (1)
 http://192.168.69.51:9981/stream/channelid/52331959?profile=pass
-#EXTINF:-1 tvg-id="af36d994a951b91f97117ac23f253143" tvg-chno="264",MOVISTAR DEPORTES (1)
+#EXTINF:-1 tvg-id="6676c49291385a40710fc69bb3fd4a59" tvg-chno="208",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2808128831.png",name":"TVI REALITY (1)
+http://192.168.69.51:9981/stream/channelid/314865254?profile=pass
+#EXTINF:-1 tvg-id="4685cc0a26adbda058eac2ba008e04b3" tvg-chno="209",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1797674550.png",name":"VH1 (1)
+http://192.168.69.51:9981/stream/channelid/181175622?profile=pass
+#EXTINF:-1 tvg-id="af36d994a951b91f97117ac23f253143" tvg-chno="210",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/4203067643.png",name":"MOVISTAR DEPORTES (1)
 http://192.168.69.51:9981/stream/channelid/349779631?profile=pass
-#EXTINF:-1 tvg-id="a5eb447f09896a06b57ed7b6702779c7" tvg-chno="265",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/530526559.jpeg",name":"MOVISTAR DRAMA HD (1)
+#EXTINF:-1 tvg-id="a5eb447f09896a06b57ed7b6702779c7" tvg-chno="211",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/530526559.jpeg",name":"MOVISTAR DRAMA HD (1)
 http://192.168.69.51:9981/stream/channelid/2135223205?profile=pass
-#EXTINF:-1 tvg-id="839ea0e1d82cfd6891259d65435262f4" tvg-chno="266",MOVISTAR ESTRENOS HD (1)
+#EXTINF:-1 tvg-id="839ea0e1d82cfd6891259d65435262f4" tvg-chno="212",MOVISTAR ESTRENOS HD (1)
 http://192.168.69.51:9981/stream/channelid/1637916291?profile=pass
-#EXTINF:-1 tvg-id="05333d030eb2e775a2f3b0b323c68440" tvg-chno="267",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1250362936.png",name":"MOVISTAR F1 HD (1)
+#EXTINF:-1 tvg-id="05333d030eb2e775a2f3b0b323c68440" tvg-chno="213",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1250362936.png",name":"MOVISTAR F1 HD (1)
 http://192.168.69.51:9981/stream/channelid/54342405?profile=pass
-#EXTINF:-1 tvg-id="d14e3797b4b84013a9596557c7a6ec32" tvg-chno="268",MOVISTAR GOLF HD (1)
+#EXTINF:-1 tvg-id="d14e3797b4b84013a9596557c7a6ec32" tvg-chno="214",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2481123649.png",name":"MOVISTAR GOLF HD (1)
 http://192.168.69.51:9981/stream/channelid/389500625?profile=pass
-#EXTINF:-1 tvg-id="5dcdee1740deee4db72ea67760ca74b0" tvg-chno="269",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2718243933.png",name":"MOVISTAR LA LIGA (1)
+#EXTINF:-1 tvg-id="5dcdee1740deee4db72ea67760ca74b0" tvg-chno="215",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2718243933.png",name":"MOVISTAR LA LIGA (1)
 http://192.168.69.51:9981/stream/channelid/401526109?profile=pass
-#EXTINF:-1 tvg-id="1d0b72be5c59c9d528cb924289932655" tvg-chno="270",MOVISTAR LA LIGA (BACKUP) (1)
+#EXTINF:-1 tvg-id="1d0b72be5c59c9d528cb924289932655" tvg-chno="216",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3720690828.jpeg",name":"MOVISTAR LA LIGA (BACKUP) (1)
 http://192.168.69.51:9981/stream/channelid/1047661341?profile=pass
-#EXTINF:-1 tvg-id="f92b6fb559cbe6f7435a1e34ea9cb856" tvg-chno="271",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1521876812.png",name":"MOVISTAR LA LIGA 1 (1)
+#EXTINF:-1 tvg-id="f92b6fb559cbe6f7435a1e34ea9cb856" tvg-chno="217",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1521876812.png",name":"MOVISTAR LA LIGA 1 (1)
 http://192.168.69.51:9981/stream/channelid/896478201?profile=pass
-#EXTINF:-1 tvg-id="f2a8a506ab4dda8f5cef75394bdaf260" tvg-chno="277",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2310841113.jpeg",name":"MOVISTAR SERIESMANIA HD (1)
+#EXTINF:-1 tvg-id="f2a8a506ab4dda8f5cef75394bdaf260" tvg-chno="226",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2310841113.jpeg",name":"MOVISTAR SERIESMANIA HD (1)
 http://192.168.69.51:9981/stream/channelid/111519986?profile=pass
-#EXTINF:-1 tvg-id="5d178310b57281116421dece45af374f" tvg-chno="278",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/658058541.jpeg",name":"MTV ESPANA (1)
+#EXTINF:-1 tvg-id="5d178310b57281116421dece45af374f" tvg-chno="227",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/658058541.jpeg",name":"MTV ESPANA (1)
 http://192.168.69.51:9981/stream/channelid/277026653?profile=pass
-#EXTINF:-1 tvg-id="62222d7ec3c0bdc0cfc11804378d310d" tvg-chno="279",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2980009513.jpeg",name":"NAT GEO WILD HD (1)
+#EXTINF:-1 tvg-id="62222d7ec3c0bdc0cfc11804378d310d" tvg-chno="228",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2980009513.jpeg",name":"NAT GEO WILD HD (1)
 http://192.168.69.51:9981/stream/channelid/2116887138?profile=pass
-#EXTINF:-1 tvg-id="b5f12620429d6dc5d66eaaa60bd71450" tvg-chno="280",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/4236515420.jpeg",name":"NEOX (1)
+#EXTINF:-1 tvg-id="b5f12620429d6dc5d66eaaa60bd71450" tvg-chno="230",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/4236515420.jpeg",name":"NEOX (1)
 http://192.168.69.51:9981/stream/channelid/539423157?profile=pass
-#EXTINF:-1 tvg-id="422ad8f2eb534d6aeca7ce131f388e52" tvg-chno="281",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2818740424.jpeg",name":"NICK JR (1)
+#EXTINF:-1 tvg-id="422ad8f2eb534d6aeca7ce131f388e52" tvg-chno="231",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2818740424.jpeg",name":"NICK JR (1)
 http://192.168.69.51:9981/stream/channelid/1926769218?profile=pass
-#EXTINF:-1 tvg-id="e854070969afd0afaf8792886158222e" tvg-chno="282",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/47586275.jpeg",name":"NICKELODEON HD (1)
+#EXTINF:-1 tvg-id="e854070969afd0afaf8792886158222e" tvg-chno="232",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/47586275.jpeg",name":"NICKELODEON HD (1)
 http://192.168.69.51:9981/stream/channelid/151475432?profile=pass
-#EXTINF:-1 tvg-id="b8effb59bd45f90eb55be405fc49945b" tvg-chno="283",NOVA (1)
+#EXTINF:-1 tvg-id="b8effb59bd45f90eb55be405fc49945b" tvg-chno="233",NOVA (1)
 http://192.168.69.51:9981/stream/channelid/1509683128?profile=pass
-#EXTINF:-1 tvg-id="8efe1a18f69d30c2bea3ae35fcc3540b" tvg-chno="284",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3653015927.jpeg",name":"PARAMOUNT CHANNEL (1)
+#EXTINF:-1 tvg-id="8efe1a18f69d30c2bea3ae35fcc3540b" tvg-chno="234",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3653015927.jpeg",name":"PARAMOUNT CHANNEL (1)
 http://192.168.69.51:9981/stream/channelid/404422286?profile=pass
-#EXTINF:-1 tvg-id="ce9a2526aa82ef0c96ffa1bed964e685" tvg-chno="285",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3429920471.png",name":"REAL MADRID TV (1)
+#EXTINF:-1 tvg-id="ce9a2526aa82ef0c96ffa1bed964e685" tvg-chno="235",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3429920471.png",name":"REAL MADRID TV (1)
 http://192.168.69.51:9981/stream/channelid/639998670?profile=pass
-#EXTINF:-1 tvg-id="85e293b143210210f3ee51ea585c5751" tvg-chno="286",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/713255575.jpeg",name":"REAL MADRID TV HD (1)
+#EXTINF:-1 tvg-id="85e293b143210210f3ee51ea585c5751" tvg-chno="236",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/713255575.jpeg",name":"REAL MADRID TV HD (1)
 http://192.168.69.51:9981/stream/channelid/831775365?profile=pass
-#EXTINF:-1 tvg-id="a42a15242cccf7f3e45541d86dbc32fa" tvg-chno="287",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1018112220.jpeg",name":"SYFY HD (1)
+#EXTINF:-1 tvg-id="a42a15242cccf7f3e45541d86dbc32fa" tvg-chno="237",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1018112220.jpeg",name":"SYFY HD (1)
 http://192.168.69.51:9981/stream/channelid/605366948?profile=pass
-#EXTINF:-1 tvg-id="63b3e4b62360526ec6b5e060972332d0" tvg-chno="289",TELE MADRID (1)
+#EXTINF:-1 tvg-id="63b3e4b62360526ec6b5e060972332d0" tvg-chno="239",TELE MADRID (1)
 http://192.168.69.51:9981/stream/channelid/920957795?profile=pass
-#EXTINF:-1 tvg-id="abcf2b9c352ad80692395dbba37def9d" tvg-chno="290",TELECINCO HD (1)
+#EXTINF:-1 tvg-id="abcf2b9c352ad80692395dbba37def9d" tvg-chno="240",TELECINCO HD (1)
 http://192.168.69.51:9981/stream/channelid/472633259?profile=pass
-#EXTINF:-1 tvg-id="e7bd7de476cf9a89973eec2a0d4cf094" tvg-chno="291",TELEDEPORTE (1)
+#EXTINF:-1 tvg-id="e7bd7de476cf9a89973eec2a0d4cf094" tvg-chno="241",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/706155996.jpeg",name":"TELEDEPORTE (1)
 http://192.168.69.51:9981/stream/channelid/1685962215?profile=pass
-#EXTINF:-1 tvg-id="b9960b3dab0ca97b2046dbdd621992d3" tvg-chno="292",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/969658710.png",name":"TELEDEPORTE HD (1)
+#EXTINF:-1 tvg-id="b9960b3dab0ca97b2046dbdd621992d3" tvg-chno="242",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/969658710.png",name":"TELEDEPORTE HD (1)
 http://192.168.69.51:9981/stream/channelid/1024169657?profile=pass
-#EXTINF:-1 tvg-id="fe8e8c450ade8726e414191b332ef575" tvg-chno="293",TEN (1)
+#EXTINF:-1 tvg-id="fe8e8c450ade8726e414191b332ef575" tvg-chno="243",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3837809377.jpeg",name":"TEN (1)
 http://192.168.69.51:9981/stream/channelid/1166839550?profile=pass
-#EXTINF:-1 tvg-id="df09653fee54c2fbea66d9304a5b2b3e" tvg-chno="296",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3765355118.jpeg",name":"TOROS TV HD (1)
+#EXTINF:-1 tvg-id="df09653fee54c2fbea66d9304a5b2b3e" tvg-chno="246",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/3765355118.jpeg",name":"TOROS TV HD (1)
 http://192.168.69.51:9981/stream/channelid/1063586271?profile=pass
-#EXTINF:-1 tvg-id="287a998697acc9c01a90822600000350" tvg-chno="297",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2934299310.jpeg",name":"TV GALICIA (1)
+#EXTINF:-1 tvg-id="287a998697acc9c01a90822600000350" tvg-chno="247",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2934299310.jpeg",name":"TV GALICIA (1)
 http://192.168.69.51:9981/stream/channelid/110721576?profile=pass
-#EXTINF:-1 tvg-id="f07bd20f432d715fee82f787c3713739" tvg-chno="298",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/945232165.jpeg",name":"TV3 CATALUNIA (1)
+#EXTINF:-1 tvg-id="f07bd20f432d715fee82f787c3713739" tvg-chno="248",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/945232165.jpeg",name":"TV3 CATALUNIA (1)
 http://192.168.69.51:9981/stream/channelid/265452528?profile=pass
-#EXTINF:-1 tvg-id="663bfeb29b89bd56f6712a65b1f615d7" tvg-chno="299",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2715016106.jpeg",name":"VAMOS BAR 1 HD (1)
+#EXTINF:-1 tvg-id="663bfeb29b89bd56f6712a65b1f615d7" tvg-chno="249",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/2715016106.jpeg",name":"VAMOS BAR 1 HD (1)
 http://192.168.69.51:9981/stream/channelid/855522150?profile=pass
-#EXTINF:-1 tvg-id="53da43fdb80269e5f5094fc0ac0d0afa" tvg-chno="301",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1642822122.png",name":"VAMOS HD (1)
+#EXTINF:-1 tvg-id="53da43fdb80269e5f5094fc0ac0d0afa" tvg-chno="251",logo":"pipe:///home/ffpipe.sh https://vavoo.to/live2/logo/1642822122.png",name":"VAMOS HD (1)
 http://192.168.69.51:9981/stream/channelid/2101598803?profile=pass
-#EXTINF:-1 tvg-id="341136c4e53a8462b074018507f4b2b8" tvg-chno="302",VIAJAR HD (1)
+#EXTINF:-1 tvg-id="341136c4e53a8462b074018507f4b2b8" tvg-chno="252",VIAJAR HD (1)
 http://192.168.69.51:9981/stream/channelid/1144394036?profile=pass
